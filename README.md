@@ -3,9 +3,6 @@
 Here we classified, sorted, and analyzed phage-plasmids from over 1,100,000 genomes from 4 databases to obtain a large, comprehensive collection of 5,743 unique P-P sequences.
 
 <img width="750" alt="image" src="https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/e6e23054-a4a5-46c6-be9c-8734612f2de2">
-1. Grant JR, Enns E, Marinier E, Mandal A, Herman EK, Chen CY, Graham M, Van Domselaar G, Stothard P. 2023. Proksee: in-depth characterization and visualization of bacterial genomes. Nucleic Acids Res 51:W484–W492.![image](https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/778347fd-8b88-423c-9bbd-5614c53524cb)
-2. Brown CL, Mullet J, Hindi F, Stoll JE, Gupta S, Choi M, Keenum I, Vikesland P, Pruden A, Zhang L. 2022. mobileOG-db: a Manually Curated Database of Protein Families Mediating the Life Cycle of Bacterial Mobile Genetic Elements. Appl Environ Microbiol 88.![image](https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/fe133cad-ad54-44a3-a7d5-c92393b50138)
-
 
 # Overall Workflow
 
