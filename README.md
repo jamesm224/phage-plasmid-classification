@@ -26,11 +26,8 @@ Testing and Training Data:
 Workflow Code:
 
    a. optimization_experiment.sh - Examine optimal parameters for processing phage-plasmids using mobileOG-pl
-   
    b. create_classifier_inputs.py - Convert data from mobileOG-pl to RF Classifier
-   
    c. creating_RF_classifier.py - Train/test the RF classifier
-   
    d. RF_classification.py - Classify samples from data
    
 
