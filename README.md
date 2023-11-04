@@ -1,6 +1,6 @@
 # phage-plasmid-classification
 
-Here we classified, sorted, and analyzed phage-plasmids from samples from 4 databases!
+Here we classified, sorted, and analyzed phage-plasmids from samples from 4 databases to obtain a large, comprehensive collection of 5,743 unique P-P sequences.
 
 # How did we do it?
 
@@ -12,3 +12,16 @@ Here we classified, sorted, and analyzed phage-plasmids from samples from 4 data
 6. Additional tools for further pangenome analysis
    
 <img width="750" alt="image" src="https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/65a08f67-2b46-47af-9348-ccfe7593f3b9">
+
+# Where is the source code for this?
+
+The files in this repository contain code and smaller data files. If you want additional information, please read our paper () or reach out to James Mullet directly for further information/questions (jmullet@mit.edu).
+
+Phage and Plasmid Training Data
+
+Phage-plasmid Training Data
+
+RF Classifier Input Example:
+![image](https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/5fe27d62-1b4e-42a2-9725-d765ab1f3d4c)
+
+Associated metadata located in supplemental tables/figures. All furthur analysis were performed using Python and R packages.
