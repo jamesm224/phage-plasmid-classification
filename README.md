@@ -17,9 +17,16 @@ Here we classified, sorted, and analyzed phage-plasmids from samples from 4 data
 
 The files in this repository contain code and smaller data files. If you want additional information, please read our paper () or reach out to James Mullet directly for further information/questions (jmullet@mit.edu).
 
-Phage and Plasmid Training Data
+Testing and Training Data:
+   a. phage_and_plasmid _negative_controls.txt
+   b. phage_plasmid_training_data.txt
+   c. classified_phage_plasmids.txt
 
-Phage-plasmid Training Data
+Workflow Code:
+   a. optimization_experiment.sh - Examine optimal parameters for processing phage-plasmids using mobileOG-pl
+   b. create_classifier_inputs.py - Convert data from mobileOG-pl to RF Classifier
+   c. creating_RF_classifier.py - Train/test the RF classifier
+   d. RF_classification.py - Classify samples from data
 
 RF Classifier Input Example:
 ![image](https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/5fe27d62-1b4e-42a2-9725-d765ab1f3d4c)
