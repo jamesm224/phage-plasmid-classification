@@ -2,8 +2,6 @@
 
 Here we classified, sorted, and analyzed phage-plasmids from over 1,100,000 genomes from 4 databases to obtain a large, comprehensive collection of 5,743 unique P-P sequences.
 
-<img width="750" alt="image" src="https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/e6e23054-a4a5-46c6-be9c-8734612f2de2">
-
 # Overall Workflow
 
 1. Isolated genomes from IMG/VR, PLSDB, GPD, and MGV
