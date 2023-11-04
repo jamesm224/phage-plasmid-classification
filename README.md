@@ -11,4 +11,4 @@ Here we classified, sorted, and analyzed phage-plasmids from samples from 4 data
 5. Analyzed Metadata to determine source locations of phage-plasmids
 6. Additional tools for further pangenome analysis
    
-<img width="870" alt="image" src="https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/65a08f67-2b46-47af-9348-ccfe7593f3b9">
+<img width="750" alt="image" src="https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/65a08f67-2b46-47af-9348-ccfe7593f3b9">
