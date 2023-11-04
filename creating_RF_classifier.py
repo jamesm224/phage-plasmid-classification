@@ -26,4 +26,4 @@ from sklearn.datasets import make_classification
 clf = RandomForestClassifier(max_depth=8,criterion="entropy",random_state=0,max_features="sqrt",class_weight="balanced_subsample")
 clf.fit(X,y)
 
-#clf = ".pkl"  
+##### Classifier was saved a pickle file for future use #####
