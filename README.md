@@ -2,7 +2,7 @@
 
 Here we classified, sorted, and analyzed phage-plasmids from samples from 4 databases to obtain a large, comprehensive collection of 5,743 unique P-P sequences.
 
-# How did we do it?
+# Overall Workflow
 
 1. Isolated genomes from IMG/VR, PLSDB, GPD, and MGV
 2. Processed samples through mobileOG-db (k=15, p=40%, q=50%, e=1e-5)
@@ -13,7 +13,7 @@ Here we classified, sorted, and analyzed phage-plasmids from samples from 4 data
    
 <img width="750" alt="image" src="https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/65a08f67-2b46-47af-9348-ccfe7593f3b9">
 
-# Where is the source code for this?
+# Source Code
 
 The files in this repository contain code and smaller data files. If you want additional information, please read our paper () or reach out to James Mullet directly for further information/questions (jmullet@mit.edu).
 
