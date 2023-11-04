@@ -19,16 +19,16 @@ The files in this repository contain code and smaller data files. If you want ad
 
 Testing and Training Data:
 
-   a. phage_and_plasmid _negative_controls.txt
-   b. phage_plasmid_training_data.txt
-   c. classified_phage_plasmids.txt
+   1. phage_and_plasmid _negative_controls.txt
+   2. phage_plasmid_training_data.txt
+   3. classified_phage_plasmids.txt
 
 Workflow Code:
 
-   a. optimization_experiment.sh - Examine optimal parameters for processing phage-plasmids using mobileOG-pl
-   b. create_classifier_inputs.py - Convert data from mobileOG-pl to RF Classifier
-   c. creating_RF_classifier.py - Train/test the RF classifier
-   d. RF_classification.py - Classify samples from data
+   1. optimization_experiment.sh - Examine optimal parameters for processing phage-plasmids using mobileOG-pl
+   2. create_classifier_inputs.py - Convert data from mobileOG-pl to RF Classifier
+   3. creating_RF_classifier.py - Train/test the RF classifier
+   4. RF_classification.py - Classify samples from data
    
 
 RF Classifier Input Example:
