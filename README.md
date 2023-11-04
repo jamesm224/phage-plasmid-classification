@@ -2,8 +2,8 @@
 
 Here we classified, sorted, and analyzed phage-plasmids from over 1,100,000 genomes from 4 databases to obtain a large, comprehensive collection of 5,743 unique P-P sequences.
 
-Example of Phage-Plasmid (IMGVR_UViG_3300028955_000001) identified in this project:
-![proksee (2)](https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/3b158bad-67c7-4a2d-b803-8b4ab4d9d373)# Phage-Plasmid Classification
+Example of Phage-Plasmid (IMGVR_UViG_3300028955_000001) identified in this project visualized with Proksee, mobileOG-db, CARD, and Prokka:
+![proksee (2)](https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/3b158bad-67c7-4a2d-b803-8b4ab4d9d373)
 
 # Overall Workflow
 
