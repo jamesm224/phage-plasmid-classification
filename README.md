@@ -1,4 +1,4 @@
-# phage-plasmid-classification
+# Phage-Plasmid Classification
 
 Here we classified, sorted, and analyzed phage-plasmids from samples from 4 databases to obtain a large, comprehensive collection of 5,743 unique P-P sequences.
 
