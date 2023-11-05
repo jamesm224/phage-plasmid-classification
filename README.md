@@ -1,6 +1,6 @@
 # Phage-Plasmid Classification
 
-Here we classified, sorted, and analyzed phage-plasmids from over 1,100,000 genomes from 4 databases to obtain a large, comprehensive collection of 5,743 unique P-P sequences.
+Here we classified, sorted, and analyzed phage-plasmids from over 1,100,000 genomes from 4 databases to obtain a large, comprehensive collection of 5,743 unique P-P sequences from a diverse array of environmental source locations.
 
 Phage-Plasmid Example:
 
