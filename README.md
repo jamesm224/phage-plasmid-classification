@@ -24,11 +24,9 @@ Example identified above visualized with Proksee, mobileOG-db, CARD, and Prokka:
 
 The files in this repository contain code and smaller data files. If you want additional information, please read our paper () or reach out to James Mullet directly for further information/questions (jmullet@mit.edu).
 
-Bins Folder - Contains many scripts used in the experimental design of this project
-
-Data Folder - Includes the input testing/training data and classified phage-plasmid accessions
-
-Plots Folder - Contain a few of the plots code created in experiment (feel free to reach out if you want additional plots code)
+1. Bins Folder - Contains many scripts used in the experimental design of this project
+2. Data Folder - Includes the input testing/training data and classified phage-plasmid accessions
+3. Plots Folder - Contain a few of the plots code created in experiment (feel free to reach out if you want additional plots code)
    
 RF Classifier Input Example:
 ![image](https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/5fe27d62-1b4e-42a2-9725-d765ab1f3d4c)
