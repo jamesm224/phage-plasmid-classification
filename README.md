@@ -25,7 +25,9 @@ Example identified above visualized with Proksee, mobileOG-db, CARD, and Prokka:
 The files in this repository contain code and smaller data files. If you want additional information, please read our paper () or reach out to James Mullet directly for further information/questions (jmullet@mit.edu).
 
 Bins Folder - Contains many scripts used in the experimental design of this project
+
 Data Folder - Includes the input testing/training data and classified phage-plasmid accessions
+
 Plots Folder - Contain a few of the plots code created in experiment (feel free to reach out if you want additional plots code)
    
 RF Classifier Input Example:
