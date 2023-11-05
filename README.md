@@ -6,6 +6,7 @@ Phage-Plasmid Example:
 
 ![proksee (4)](https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/ebe7a099-d634-4f36-bf60-c70e560b195d)
 Example identified above visualized with Proksee, mobileOG-db, CARD, and Prokka:
+
  
 # Overall Workflow
 
@@ -17,6 +18,7 @@ Example identified above visualized with Proksee, mobileOG-db, CARD, and Prokka:
 6. Additional tools for further pangenome analysis
    
 <img width="950" alt="image" src="https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/65a08f67-2b46-47af-9348-ccfe7593f3b9">
+
 
 # Source Code
 
