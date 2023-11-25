@@ -29,6 +29,7 @@ path = "."
 dir_list = os.listdir(path)
 
 ##### Define Variables and load input files #####
+##### mobileOGs_Cluster_Purity.csv can be created using the mobileOG-db metadata - feel free to reach out if you would like this file  #####
 STMetadata=pd.read_csv("mobileOGs_Cluster_Purity.csv")
 STMetadata['Plasmid Purity'] = STMetadata['Plasmid Purity'].astype(float)
 Plasmid_Hits=STMetadata.loc[(STMetadata['Plasmid Purity'] > args.p)]
