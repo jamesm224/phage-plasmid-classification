@@ -31,4 +31,4 @@ The files in this repository contain code and smaller data files. If you want ad
 RF Classifier Input Example:
 ![image](https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/5fe27d62-1b4e-42a2-9725-d765ab1f3d4c)
 
-Associated metadata located in supplemental tables/figures. All furthur analysis were performed using Python and R packages.
+Associated metadata located in supplemental tables/figures. All further analysis were performed using Python and R packages.
