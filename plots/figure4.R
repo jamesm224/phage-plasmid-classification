@@ -27,7 +27,7 @@ accessory_count<- data %>%
   as.data.frame()
 accessory_count
 
-##### Obtain the number of Genomes
+##### Obtain the number of Genomes #####
 genome_count<- data %>% 
   group_by(Home_location,Specific.Location) %>% 
   summarise(total_count=n()) %>%
@@ -119,3 +119,52 @@ redone_graph
 Cairo(file = "figure4.svg", type = "svg", width = 100, height = 100, units = "in", dpi = 500)
 print(redone_graph)  # 'final_graph' is the ggplot object
 dev.off()
+
+##### Statistical Analysis #####
+
+### Obtain the Mean P-P counts per accessory gene ###
+phage_plasmid_subset<- cleaned_stats_data %>% 
+  filter(Specific.Location != 'phage')%>% 
+  filter(Specific.Location != 'plasmid')%>%
+  group_by(gene_id) %>% 
+  # Obtain the Mean Count #
+  summarise(total_count=mean(total_count.x)) %>%
+  as.data.frame()
+phage_plasmid_subset$MGE <- 'P-P'
+phage_plasmid_subset
+
+### Obtain the Phage counts per accessory gene ###
+phage_subset<- merged_df_2 %>% 
+  filter(Specific.Location == 'phage')%>% 
+  group_by(gene_id) %>% 
+  # Obtain the Mean Count #
+  summarise(total_count=mean(total_count.x)) %>%
+  as.data.frame()
+phage_subset$MGE <- 'phage'
+phage_subset
+
+### Obtain the Phage counts per accessory gene ###
+plasmid_subset<- merged_df_2 %>% 
+  filter(Specific.Location == 'plasmid')%>% 
+  group_by(gene_id) %>% 
+  # Obtain the Mean Count #
+  summarise(total_count=mean(total_count.x)) %>%
+  as.data.frame()
+plasmid_subset$MGE <- 'plasmid'
+plasmid_subset
+
+### Combine the phage, plasmid, and P-P dataframes ###
+combined_mge_df <- rbind(phage_plasmid_subset, phage_subset, plasmid_subset)
+combined_mge_df
+
+### Kruskal-Wallis test ##
+kruskal_result <- kruskal.test(total_count ~ MGE, data = combined_mge_df)
+
+### Dunn correction for comparing multiple variables ###
+dunn_result <- dunn.test(combined_mge_df$total_count, g = combined_mge_df$MGE, method = "bonferroni")
+
+# Print Kruskal-Wallis outputs #
+print(kruskal_result)
+
+# Print Dunn correction outputs #
+print(dunn_result)
