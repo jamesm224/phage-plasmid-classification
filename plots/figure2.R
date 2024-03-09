@@ -18,24 +18,26 @@ library(forcats)
 library(tidytext)
 
 ##### Load Database counts #####
-data <- read.csv(file = 'Database_source_counts.csv')
-data<- subset(data, select = -c(X,X.1,X.2,X.3,X.4,X.5,X.6)) 
-data <-  na.omit(data)
-data<- data[order(data[,3] ),]
-colnames(data)[3] ="counts"
+counts_data <- read.csv(file = 'Database_source_counts.csv')
+counts_data<- subset(counts_data, select = -c(X,X.1,X.2,X.3,X.4,X.5,X.6)) 
+counts_data <-  na.omit(counts_data)
+counts_data<- counts_data[order(counts_data[,3] ),]
+colnames(counts_data)[3] ="counts"
 
 ##### Order inputs #####
-custom_order <- list(
-  "P-P" = c('MGV','GPD','PLSDB','IMGVR'),  # Define the order for 'P-P'
-  "Plasmid" = c('GPD','MGV','PLSDB','IMGVR'),  # Define the order for 'Plasmid'
-  "Phage" = c('PLSDB', 'GPD', 'MGV','IMGVR')  # Define the order for 'Phage'
-)
+ordered_list <- list(
+  # Order for P-Ps #
+  "P-P" = c('MGV','GPD','PLSDB','IMGVR'),
+  # Order for Plasmids #
+  "Plasmid" = c('GPD','MGV','PLSDB','IMGVR'),  
+  # Define the order for 'Phage' #
+  "Phage" = c('PLSDB', 'GPD', 'MGV','IMGVR'))
 
-data$Database = factor(data$Database, levels=c('MGV','GPD','PLSDB','IMGVR'))
-data
+counts_data$Database = factor(counts_data$Database, levels=c('MGV','GPD','PLSDB','IMGVR'))
+counts_data
 
 ##### Create Figure 2A #####
-figure2A<- ggplot(data, aes(x=MGE,fill=Database,y=counts)) + 
+figure2A<- ggplot(counts_data, aes(x=MGE,fill=Database,y=counts)) + 
   geom_bar(position="dodge", stat="identity",color='black',alpha=0.8)+
   theme_classic()+
   theme(axis.text.x = element_text(family = "Helvetica",color='black',size=16),
@@ -59,19 +61,19 @@ figure2A<- ggplot(data, aes(x=MGE,fill=Database,y=counts)) +
 figure2A
 
 ##### Load Hybrid, phage, and plasmid classification results #####
-data1 <- read.csv(file = 'Total_Final_Final_Hybrids_Updated.fasta_Clustered.fasta.summary.csv')
-data1
-data2 <- read.csv(file = 'Final_Final_Plasmids.fasta.summary.csv')
-data2
-data3 <- read.csv(file = 'Final_Final_Phages.fasta.summary.csv')
+p_p_input <- read.csv(file = 'Total_Final_Final_Hybrids_Updated.fasta_Clustered.fasta.summary.csv')
+p_p_input
+plasmid_input <- read.csv(file = 'Final_Final_Plasmids.fasta.summary.csv')
+plasmid_input
+phage_input <- read.csv(file = 'Final_Final_Phages.fasta.summary.csv')
 
-df_hybrid = subset(data1, select = -c(X,Percent.Bacteriophages,Percent.Insertion.sequences,Percent.Integrative.elements,Percent.Plasmids,Percent.Multiple,Amount.of.Unique.ORFs,Multiple,Integrative.elements,Insertion.sequences))
+df_hybrid = subset(p_p_input, select = -c(X,Percent.Bacteriophages,Percent.Insertion.sequences,Percent.Integrative.elements,Percent.Plasmids,Percent.Multiple,Amount.of.Unique.ORFs,Multiple,Integrative.elements,Insertion.sequences))
 df_hybrid$MGE = 'P-P'
 df_hybrid
-df_plasmid = subset(data2, select = -c(X,Percent.Bacteriophages,Percent.Insertion.sequences,Percent.Integrative.elements,Percent.Plasmids,Percent.Multiple,Amount.of.Unique.ORFs,Multiple,Integrative.elements,Insertion.sequences))
+df_plasmid = subset(plasmid_input, select = -c(X,Percent.Bacteriophages,Percent.Insertion.sequences,Percent.Integrative.elements,Percent.Plasmids,Percent.Multiple,Amount.of.Unique.ORFs,Multiple,Integrative.elements,Insertion.sequences))
 df_plasmid$MGE = 'Plasmid'
 df_plasmid
-df_phage = subset(data3, select = -c(X,Percent.Bacteriophages,Percent.Insertion.sequences,Percent.Integrative.elements,Percent.Plasmids,Percent.Multiple,Amount.of.Unique.ORFs,Multiple,Integrative.elements,Insertion.sequences))
+df_phage = subset(phage_input, select = -c(X,Percent.Bacteriophages,Percent.Insertion.sequences,Percent.Integrative.elements,Percent.Plasmids,Percent.Multiple,Amount.of.Unique.ORFs,Multiple,Integrative.elements,Insertion.sequences))
 df_phage$MGE = 'Phage'
 df_phage
 
@@ -90,6 +92,7 @@ figure2B<-ggboxplot(data_long, x='protein_hits', y='value', fill='MGE',outlier.s
         axis.title.y = element_text(family = "Helvetica",color='black',size=16),
         legend.text = element_text(family = "Helvetica",size = 16),
         legend.title = element_text(family = "Helvetica",size = 16),
+        #panel.border=element_blank()
         legend.position='top') +
   scale_fill_npg()+
   ylab("mobileOG protein hits")+
