@@ -3,7 +3,7 @@ Lists the descriptions of each script
 
 # 1. Running Classifier Scripts #
 
-mobileOG-pl_pipeline_run.sh - processing
+mobileOG-pl_pipeline_run.sh - processing protein sequences
 
 create_classifier_inputs.py - converts mobileOG output to RF classifier input
 
