@@ -1,3 +1,4 @@
+##### Scripts for figure 5A and 5B. 5C was made using Proksee #####
 ##### Load Packages and Input Files #####
 library(ggplot2)
 library(dplyr)
@@ -23,16 +24,16 @@ source_location_summary <- ggplot(source_meta, aes(fill=Source_location, y=count
   geom_bar(position="dodge", stat="identity",color='black')+
   theme_classic()+
   theme(axis.text.x=element_blank(),
-        legend.text = element_text(family = "Times New Roman",size = 12),
-        legend.title = element_text(family = "Times New Roman",size = 12),
+        legend.text = element_text(family = "Helvetica",size = 12),
+        legend.title = element_text(family = "Helvetica",size = 12),
         axis.title.x=element_text(size=15,color='Black'),
         axis.text.y=element_text(hjust=1,size=15,color='Black'),
         legend.position='top',
-        text = element_text(family="Times New Roman",size=15,color = "Black"),)+
+        text = element_text(family="Helvetica",size=15,color = "Black"),)+
   ylab('Number of ARGs')+
   xlab('')+
   guides(fill=guide_legend(title="Source Location"))+
-  # Custom Colors used in graph
+  ### Custom Colors used in graph ###
   scale_fill_manual(breaks=c('Aquatic', 'Host-associated', 'Terrestrial','Unclassified'), 
                     values = alpha(c("#a3cef1",
                                      "#ff6166",
@@ -42,7 +43,7 @@ source_location_summary <- ggplot(source_meta, aes(fill=Source_location, y=count
   scale_x_discrete(expand = c(0, 0.5))
 source_location_summary
 
-####Bar Chart of ARG Gene Distribution ####
+##### Bar Chart of ARG Gene Distribution ####
 
 ##### Load Dataframe #####
 arg_data <- read.csv(file = 'Hybrid_ARG_Source_Out.csv')
@@ -65,7 +66,6 @@ all_args <- arg_counts %>% expand(ARG, Specific.Location,Major_class) %>%
 all_args %>% dplyr::anti_join(arg_counts)%>%
   as.data.frame()
 all_args
-
 
 arg_merge<- arg_counts %>% dplyr::right_join(all_args)%>%
   as.data.frame()
@@ -103,12 +103,12 @@ bar1 <- merged_out%>%filter(ARG%in%high_count$ARG) %>%
   ylab('proportion of AMR genes (%)')+
   scale_fill_brewer(palette = "Set2")+
   facet_grid(rows=vars(Major_class),scales="free",space="free")+
-  theme(text = element_text(family="Times New Roman",size=15,color = "black"),
+  theme(text = element_text(family="Helvetica",size=15,color = "black"),
     axis.text.x = element_text(color='black',size=15),
     axis.title.y=element_blank(),
     axis.text.y = element_text(color='black',size=15),
-    legend.text = element_text(family = "Times New Roman",size = 12),
-    legend.title = element_text(family = "Times New Roman",size = 12),
+    legend.text = element_text(family = "Helvetica",size = 12),
+    legend.title = element_text(family = "Helvetica",size = 12),
     legend.position = "top",
     legend.justification = c("right"),
     panel.border=element_blank(),
@@ -118,17 +118,16 @@ bar1 <- merged_out%>%filter(ARG%in%high_count$ARG) %>%
 
 bar1
 
-##### Flip Axis #####
+##### Flip axis of plot #####
 bar2 <- bar1 +coord_flip()
 bar2
 
-##### Combine the Two Additional Plots #####
-##### Figure 5C was created on Proksee #####
+##### Combine figure 5A and 5B together #####
 figure_5 <- plot_grid(source_location_summary,bar2,
                    labels = c("A","B"),rel_widths = c(2/5,3/5),align = "h", axis = "bt")
 figure_5
 
-##### Save and Export Figure #####
-Cairo(file = "figure5.svg", type = "svg", width = 100, height = 50, units = "in", dpi = 400)
-print(figure_5)  # 'final_graph' is the ggplot object
-dev.off()
+##### Optional Saving file step #####
+#Cairo(file = "figure5.svg", type = "svg", width = 55.5, height =25, units = "in", dpi = 200)
+#print(figure_5)  # 'final_graph' is the ggplot object
+#dev.off()
