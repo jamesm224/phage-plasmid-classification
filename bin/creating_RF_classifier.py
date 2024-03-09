@@ -1,6 +1,11 @@
 import pandas as pd
 import os
 import numpy as np
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.datasets import make_classification
+from sklearn import metrics
+from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
+
 os.chdir('/projects/ciwars/jamesm22/TestData_Hybrids/')
 path = "."
 dir_list = os.listdir(path)
@@ -22,9 +27,6 @@ X=np.array(X1)
 y=np.array(Training['MGE Element Type'])
 
 ##### Run Classifier #####
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.datasets import make_classification
-
 RF_classifier = RandomForestClassifier(max_depth=8,criterion="entropy",random_state=0,max_features="sqrt",class_weight="balanced_subsample")
 RF_classifier.fit(X,y)
 
@@ -33,12 +35,10 @@ filename = 'finalized_model.sav'
 pickle.dump(RF_classifier, open(filename, 'wb'))
 
 ##### Obtaining Confusion Matrix Results #####
-from sklearn import metrics
-from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 X2 = Test.drop("MGE Element Type", axis=1)
 ya=np.array(Test['MGE Element Type'])
 Xa=np.array(X2)
-y_pred=clf.predict(Xa)
+y_pred=RF_classifier.predict(Xa)
 y_final=classification_report(ya, y_pred, output_dict=True)
 DF=pd.DataFrame(y_final)
 df = pd.DataFrame(y_final).transpose()
