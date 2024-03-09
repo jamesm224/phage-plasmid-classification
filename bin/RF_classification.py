@@ -1,9 +1,9 @@
 ##### Code for processing data against RF Classifer #####
-
 import pickle
 import pandas as pd
 import os
 import numpy as np
+
 os.chdir('/path/to/workdirectory')
 path = "."
 dir_list = os.listdir(path)
