@@ -5,7 +5,7 @@ os.chdir('/projects/ciwars/jamesm22/TestData_Hybrids/')
 path = "."
 dir_list = os.listdir(path)
 
-workingtable=pd.read_csv("RFFDataTable1.csv")
+workingtable=pd.read_csv("RF_testing_training_data.csv")
 workingtable= workingtable.replace('plasmid','0', regex=True)
 workingtable= workingtable.replace('phage','1', regex=True)
 workingtable= workingtable.replace('Hybrid','2', regex=True)
