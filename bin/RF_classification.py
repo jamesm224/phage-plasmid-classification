@@ -9,6 +9,7 @@ path = "."
 dir_list = os.listdir(path)
 
 ##### Load saved classifer as a pickle file #####
+filename = 'finalized_model.sav'
 MODEL = pickle.load(open(filename, 'rb'))
 MODEL
 
