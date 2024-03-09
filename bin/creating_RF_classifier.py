@@ -31,3 +31,17 @@ RF_classifier.fit(X,y)
 ##### Classifier was saved a pickle file for future use #####
 filename = 'finalized_model.sav'
 pickle.dump(RF_classifier, open(filename, 'wb'))
+
+##### Obtaining Confusion Matrix Results #####
+from sklearn import metrics
+from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
+X2 = Test.drop("MGE Element Type", axis=1)
+ya=np.array(Test['MGE Element Type'])
+Xa=np.array(X2)
+y_pred=clf.predict(Xa)
+y_final=classification_report(ya, y_pred, output_dict=True)
+DF=pd.DataFrame(y_final)
+df = pd.DataFrame(y_final).transpose()
+
+confusion_matrix(ya, y_pred)
+print(classification_report(ya, y_pred))
