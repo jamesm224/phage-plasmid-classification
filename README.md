@@ -16,8 +16,9 @@ Example identified above visualized with Proksee, mobileOG-db, CARD, and Prokka:
 4. Clustered similar phage-plasmids to remove similar sequences
 5. Analyzed Metadata to determine source locations of phage-plasmids
 6. Additional tools for further accessory gene analysis
-   
-[![Uploading final_figure1.svg…]()](https://github.com/jamesm224/phage-plasmid-classification)![image](https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/6f2752de-995f-43ef-b4bd-2a281f15039c)
+
+![image](https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/074106e2-2eab-497c-aa8f-b388bd125ab7)
+
 
 
 
