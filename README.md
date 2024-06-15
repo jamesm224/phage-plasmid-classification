@@ -26,7 +26,7 @@ Example identified above visualized with Proksee, mobileOG-db, CARD, and Prokka:
 
 # Source Code
 
-The files in this repository contain code and smaller data files. If you want additional information, please reach out to James Mullet for further information/questions (jmullet@mit.edu). Additionally, genomes and other metadata can be found on Figshare located here: https://figshare.com/s/b0ffbc71c0bf43e251df
+The files in this repository contain code and smaller data files. If you want additional information, please reach out to James Mullet for further information/questions (jmullet@mit.edu). Additionally, genomes and other metadata can be found on Figshare located here: (will attach soon!)
 
 1. Bins Folder - Contains many scripts used in the experimental design of this project
 2. Data Folder - Includes the input testing/training data and classified phage-plasmid accessions
