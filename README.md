@@ -17,7 +17,7 @@ Example identified above visualized with Proksee, mobileOG-db, CARD, and Prokka:
 5. Analyzed Metadata to determine source locations of phage-plasmids
 6. Additional tools for further accessory gene analysis
 
-![image](https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/074106e2-2eab-497c-aa8f-b388bd125ab7)
+<img width="878" alt="figure_1" src="https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/25dbd2d3-0bb3-4e26-968b-0e45b4bdff38">
 
 
 
