@@ -17,7 +17,7 @@ Example identified above visualized with Proksee, mobileOG-db, CARD, and Prokka:
 5. Analyzed Metadata to determine source locations of phage-plasmids
 6. Additional tools for further pangenome analysis
    
-<img width="950" alt="image" src="https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/65a08f67-2b46-47af-9348-ccfe7593f3b9">
+
 
 
 # Source Code
