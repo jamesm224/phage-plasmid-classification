@@ -15,9 +15,11 @@ Example identified above visualized with Proksee, mobileOG-db, CARD, and Prokka:
 3. Reclassified results using a RF classifier with prior classified data
 4. Clustered similar phage-plasmids to remove similar sequences
 5. Analyzed Metadata to determine source locations of phage-plasmids
-6. Additional tools for further pangenome analysis
+6. Additional tools for further accessory gene analysis
    
-![final_figure1.pdf](https://github.com/user-attachments/files/15847931/final_figure1.pdf)
+[![Uploading final_figure1.svg…]()](https://github.com/jamesm224/phage-plasmid-classification)![image](https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/6f2752de-995f-43ef-b4bd-2a281f15039c)
+
+
 
 
 
