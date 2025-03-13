@@ -5,18 +5,20 @@
 #SBATCH -N 1 
 #SBATCH -n 32
 
+# Loop through all nucleotide fasta files in directory # 
+# Note this script uses prokka to generate the gff files #
+
 samples=`ls *.fasta | awk '{split($_,x,".fa"); print x[1]}' | sort | uniq`
 for sample in $samples
 do
 mkdir ${sample}.gff.o
-#tr "\t" "\n" < ${sample}.fasta > ${sample}.fna
+
 split -l 2 ${sample}.fasta
 Xs=x*
 for X in ${Xs}; do cp "$X" "${sample}.gff.o/$(head -1 "$X" | sed 's/>//g' | sed 's/ //g')"; done
-#mv ${sample}_ctg* ${sample}.o
+
 cd ${sample}.gff.o
-#psamples=`ls *_ctg | awk '{split($_,x,".summary.csv"); print x[1]}' | sort | uniq`
-#psamples=*_ctg* 
+
 psamples=*
 for psample in $psamples; do prokka --metagenome --mincontiglen 1500 --prefix ${psample}.prokka --metagenome --fast --cpus 32 ${psample}; done
 mkdir clusters
