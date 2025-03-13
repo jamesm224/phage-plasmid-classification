@@ -44,3 +44,4 @@ pfam_analysis.py - script for pfams
 
 run_clinker.sh - run clinker on genomes
 
+annotate_proteins.sh - annotate proteins of phage-plasmids
