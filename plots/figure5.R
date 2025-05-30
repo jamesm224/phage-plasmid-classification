@@ -19,8 +19,39 @@ source_meta$Source_location <- factor(source_meta$Source_location,
                                       levels = c("Host-associated", "Unclassified","Aquatic", "Terrestrial"))
 source_meta
 
+total_env_distribution=source_meta %>% group_by(Home_location) %>% 
+  summarise(total_counts=n(),.groups = 'drop') %>%
+  as.data.frame()
+total_env_distribution
+
+merged_metadata <- merge(source_meta, total_env_distribution, by = "Home_location",how='left_join')
+merged_metadata
+
+####Source Location Frequency Graph ####
+args <- read.csv(file = 'phage_plasmid_args.csv')
+args$Genome <- sapply(strsplit(args$Genome, "\\."), `[`, 1)
+args
+
+##### Order the variables for the graph #####
+merged_df <- merge(args, merged_metadata, by = "Genome",how='outer')
+merged_df
+
+# Remove duplicates based on col1 and col2
+merged_df_distinct <- merged_df %>% distinct(Genome, Home_location, .keep_all = TRUE)
+merged_df_distinct
+
+arg_distribution_df=merged_df_distinct %>% group_by(Home_location,total_counts) %>% 
+  summarise(arg_counts=n(),.groups = 'drop') %>%
+  as.data.frame()
+arg_distribution_df$percent_abundance <- arg_distribution_df$arg_counts / arg_distribution_df$total_counts*100
+
+##### Order the variables for the graph #####
+arg_distribution_df$Home_location <- factor(arg_distribution_df$Home_location, 
+                                      levels = c("Host-associated", "Unclassified","Aquatic", "Terrestrial"))
+arg_distribution_df
+
 ##### Graph the distribution of ARGs by Location #####
-source_location_summary <- ggplot(source_meta, aes(fill=Source_location, y=counts,x=Sample)) + 
+source_location_summary <- ggplot(arg_distribution_df, aes(fill=Home_location, y=percent_abundance,x=Home_location)) + 
   geom_bar(position="dodge", stat="identity",color='black')+
   theme_classic()+
   theme(axis.text.x=element_blank(),
@@ -30,18 +61,19 @@ source_location_summary <- ggplot(source_meta, aes(fill=Source_location, y=count
         axis.text.y=element_text(hjust=1,size=15,color='Black'),
         legend.position='top',
         text = element_text(family="Helvetica",size=15,color = "Black"),)+
-  ylab('Number of ARGs')+
+  ylab('Fraction (%)')+
   xlab('')+
   guides(fill=guide_legend(title="Source Location"))+
-  ### Custom Colors used in graph ###
+  # Custom Colors used in graph #
   scale_fill_manual(breaks=c('Aquatic', 'Host-associated', 'Terrestrial','Unclassified'), 
                     values = alpha(c("#a3cef1",
                                      "#ff6166",
                                      "#80ed99",
                                      "#D3D3D3")))+
-  scale_y_continuous(limits = c(0,125),expand = c(0, 0))+
+  scale_y_continuous(limits = c(0,6),expand = c(0, 0))+
   scale_x_discrete(expand = c(0, 0.5))
 source_location_summary
+
 
 ##### Bar Chart of ARG Gene Distribution ####
 
