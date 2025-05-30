@@ -27,7 +27,7 @@ merged_metadata <- merge(source_meta, total_env_distribution, by = "Home_locatio
 merged_metadata
 
 ####Source Location Frequency Graph ####
-args <- read.csv(file = '/Users/jamesmullet/phage_plasmid_args.csv')
+args <- read.csv(file = 'phage_plasmid_args.csv')
 args$Genome <- sapply(strsplit(args$Genome, "\\."), `[`, 1)
 args
 
