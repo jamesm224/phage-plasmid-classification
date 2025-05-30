@@ -1,0 +1,903 @@
+﻿MGE,ARG,ARO Accession,Genome,Predicted_gene_name,Predicted_host,Associated_drug_class,MajorClass
+P-P,-VEB 1.00,ARO:3002370,NZ_MK439959.1,CAM88398.1,Acinetobacter baumannii AYE ,cephalosporin;monobactam,beta-lactam
+P-P,AAC(3)-Ib,ARO:3002530,NZ_CP034755.1,AAA88422.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(3)-IId,ARO:3004623,NZ_CP033632.1,ABS70977.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(3)-IId,ARO:3004623,NZ_CP034590.1,ABS70977.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(3)-IId,ARO:3004623,NZ_CP058165.1,ABS70977.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(3)-IId,ARO:3004623,NZ_CP063488.1,ABS70977.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(3)-IId,ARO:3004623,NZ_KX928752.1,ABS70977.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(3)-IId,ARO:3004623,NZ_LR130553.1,ABS70977.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(3)-IIe,ARO:3004621,NZ_AP023428.1,ABS70978.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(3)-IIe,ARO:3004621,NZ_CP021203.1,ABS70978.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(3)-IIe,ARO:3004621,NZ_CP037929.1,ABS70978.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(3)-IIe,ARO:3004621,NZ_MN922301.1,ABS70978.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(3)-IV,ARO:3002539,NZ_CP010146.1,ABB43029.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(3)-IV,ARO:3002539,NZ_CP019054.1,ABB43029.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(3)-IV,ARO:3002539,NZ_CP033251.1,ABB43029.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(3)-IV,ARO:3002539,NZ_CP055258.1,ABB43029.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(3)-IV,ARO:3002539,NZ_MG196293.1,ABB43029.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(3)-IV,ARO:3002539,NZ_MN510447.1,ABB43029.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(3)-VIa,ARO:3002540,NZ_CP062816.1,AAA16194.1,Enterobacter cloacae ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(3)-VIa,ARO:3002540,NZ_CP062827.1,AAA16194.1,Enterobacter cloacae ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(3)-VIa,ARO:3002540,NZ_CP062833.1,AAA16194.1,Enterobacter cloacae ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(3)-VIa,ARO:3002540,NZ_CP062839.1,AAA16194.1,Enterobacter cloacae ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(3)-VIa,ARO:3002540,NZ_CP062884.1,AAA16194.1,Enterobacter cloacae ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(3)-VIa,ARO:3002540,NZ_CP062896.1,AAA16194.1,Enterobacter cloacae ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(6')-33,ARO:3002587,NZ_CP018956.1,AEZ05106.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(6')-33,ARO:3002587,NZ_CP021835.1,AEZ05106.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(6')-33,ARO:3002587,NZ_CP025141.1,AEZ05106.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(6')-33,ARO:3002587,NZ_CP025144.1,AEZ05106.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(6')-33,ARO:3002587,NZ_CP025147.1,AEZ05106.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(6')-Ib,ARO:3002546,NZ_CP045677.1,AFJ11384.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(6')-Ib,ARO:3002546,NZ_CP050364.1,AFJ11384.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(6')-Ib,ARO:3002546,NZ_CP079728.1,AFJ11384.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(6')-Ib-cr1,ARO:3002547,NZ_CP037929.1,WP_071846215.1,Stenotrophomonas maltophilia ,aminoglycoside antibiotic;fluoroquinolone antibiotic,aminoglycoside/fluoroquinolone
+P-P,AAC(6')-Ib-cr1,ARO:3002547,NZ_MN922301.1,WP_071846215.1,Stenotrophomonas maltophilia ,aminoglycoside antibiotic;fluoroquinolone antibiotic,aminoglycoside/fluoroquinolone
+P-P,AAC(6')-Ib-cr6,ARO:3005116,CP052281.1,ACD56150.1,Escherichia coli ,aminoglycoside antibiotic;fluoroquinolone antibiotic,aminoglycoside/fluoroquinolone
+P-P,AAC(6')-Ib-cr6,ARO:3005116,CP052352.1,ACD56150.1,Escherichia coli ,aminoglycoside antibiotic;fluoroquinolone antibiotic,aminoglycoside/fluoroquinolone
+P-P,AAC(6')-Ib-cr6,ARO:3005116,CP052393.1,ACD56150.1,Escherichia coli ,aminoglycoside antibiotic;fluoroquinolone antibiotic,aminoglycoside/fluoroquinolone
+P-P,AAC(6')-Ib-cr6,ARO:3005116,CP052423.1,ACD56150.1,Escherichia coli ,aminoglycoside antibiotic;fluoroquinolone antibiotic,aminoglycoside/fluoroquinolone
+P-P,AAC(6')-Ib-cr6,ARO:3005116,MF554642.1,ACD56150.1,Escherichia coli ,aminoglycoside antibiotic;fluoroquinolone antibiotic,aminoglycoside/fluoroquinolone
+P-P,AAC(6')-Ib-cr6,ARO:3005116,NZ_CP034755.1,ACD56150.1,Escherichia coli ,aminoglycoside antibiotic;fluoroquinolone antibiotic,aminoglycoside/fluoroquinolone
+P-P,AAC(6')-Ib-cr6,ARO:3005116,NZ_MG196293.1,ACD56150.1,Escherichia coli ,aminoglycoside antibiotic;fluoroquinolone antibiotic,aminoglycoside/fluoroquinolone
+P-P,AAC(6')-Ib4,ARO:3002577,NZ_MN629346.1,AAL38577.1,Acinetobacter baumannii ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(6')-Ib4,ARO:3002577,NZ_MN961666.1,AAL38577.1,Acinetobacter baumannii ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(6')-Ib7,ARO:3002578,NZ_CP029493.1,AKN19287.1,Salmonella enterica subsp. enterica serovar Corvallis ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(6')-Ib7,ARO:3002578,NZ_CP063488.1,AKN19287.1,Salmonella enterica subsp. enterica serovar Corvallis ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(6')-Ib7,ARO:3002578,NZ_MH763829.1,AKN19287.1,Salmonella enterica subsp. enterica serovar Corvallis ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(6')-Ib8,ARO:3002579,NZ_AP018351.1,AIK02012.1,Enterobacter cloacae ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(6')-Ib9,ARO:3002580,CP017387.1,AAD02244.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC(6')-Ib9,ARO:3002580,NZ_CP017778.1,AAD02244.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC6_Ie_APH2_Ia,ARO:3002597,GCA_002610805.1,AAA88548.1,Staphylococcus aureus ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC6_Ie_APH2_Ia,ARO:3002597,NZ_CP020859.1,AAA88548.1,Staphylococcus aureus ,aminoglycoside antibiotic,aminoglycoside
+P-P,AAC6_Ie_APH2_Ia,ARO:3002597,NZ_CP062072.1,AAA88548.1,Staphylococcus aureus ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA ,ARO:3002601,CP042617.1,AAO49597.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA ,ARO:3002601,CP057733.1,AAO49597.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA ,ARO:3002601,CP057740.1,AAO49597.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA ,ARO:3002601,CP057753.1,AAO49597.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA ,ARO:3002601,NZ_CP010154.1,AAO49597.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA ,ARO:3002601,NZ_CP019262.1,AAO49597.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA ,ARO:3002601,NZ_CP029181.1,AAO49597.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA ,ARO:3002601,NZ_CP029493.1,AAO49597.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA ,ARO:3002601,NZ_CP033632.1,AAO49597.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA ,ARO:3002601,NZ_CP034789.1,AAO49597.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA ,ARO:3002601,NZ_CP055600.1,AAO49597.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA ,ARO:3002601,NZ_CP059289.1,AAO49597.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA ,ARO:3002601,NZ_CP062833.1,AAO49597.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA ,ARO:3002601,NZ_CP062896.1,AAO49597.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA ,ARO:3002601,NZ_CP063488.1,AAO49597.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA ,ARO:3002601,NZ_CP063951.1,AAO49597.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA ,ARO:3002601,NZ_CP077204.1,AAO49597.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA ,ARO:3002601,NZ_MG825383.1,AAO49597.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA ,ARO:3002601,NZ_MN510447.1,AAO49597.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA16,ARO:3002616,NZ_MG196293.1,ACF17980.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,CP042617.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,CP042894.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,CP057733.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,CP057740.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,CP057753.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NC_021654.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_CP007729.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_CP010154.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_CP016381.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_CP019054.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_CP021842.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_CP021846.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_CP027613.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_CP029244.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_CP029493.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_CP029493.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_CP029688.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_CP030285.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_CP032239.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_CP037929.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_CP040928.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_CP040928.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_CP055258.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_CP059289.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_CP063488.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_CP074117.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_CP076548.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_MN510447.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA2,ARO:3002602,NZ_MN922301.1,AAF27727.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA23,ARO:3002620,CP042617.1,CAH10847.1,Salmonella enterica subsp. enterica serovar Agona ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA3,ARO:3002603,NZ_LT985263.1,AAC14728.1,Plasmid NR79,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA5,ARO:3002605,CP034786.1,AAF17880.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA5,ARO:3002605,NZ_AP023428.1,AAF17880.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA5,ARO:3002605,NZ_CP010146.1,AAF17880.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA5,ARO:3002605,NZ_CP021203.1,AAF17880.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA5,ARO:3002605,NZ_CP033251.1,AAF17880.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA5,ARO:3002605,NZ_CP048823.1,AAF17880.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA5,ARO:3002605,NZ_KP453775.1,AAF17880.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,aadA5,ARO:3002605,NZ_MN086777.1,AAF17880.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,AcrF ,ARO:3000502,NZ_MK433207.1,AAC76298.1,Escherichia coli str. K-12 substr. MG1655,cephalosporin;cephamycin;fluoroquinolone antibiotic;penam,multidrug
+P-P,ADC-176,ARO:3006348,NZ_CP041590.1,WP_001159761.1,Acinetobacter baumannii ,cephalosporin,beta-lactam
+P-P,ANT(2'')-Ia,ARO:3000230,NZ_CP016381.1,AAC64365.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,ANT(2'')-Ia,ARO:3000230,NZ_CP018956.1,AAC64365.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,ANT(2'')-Ia,ARO:3000230,NZ_CP021835.1,AAC64365.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,ANT(2'')-Ia,ARO:3000230,NZ_CP025141.1,AAC64365.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,ANT(2'')-Ia,ARO:3000230,NZ_CP025144.1,AAC64365.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,ANT(2'')-Ia,ARO:3000230,NZ_CP025147.1,AAC64365.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,ANT(2'')-Ia,ARO:3000230,NZ_CP032183.1,AAC64365.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,ANT(2'')-Ia,ARO:3000230,NZ_MK439959.1,AAC64365.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,ANT(3'')-IIa,ARO:3004089,NZ_CP053046.1,CAA26199.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,ANT(3'')-IIa,ARO:3004089,NZ_CP062816.1,CAA26199.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,ANT(3'')-IIa,ARO:3004089,NZ_CP062827.1,CAA26199.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,ANT(3'')-IIa,ARO:3004089,NZ_CP062839.1,CAA26199.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,ANT(3'')-IIa,ARO:3004089,NZ_CP062884.1,CAA26199.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,ANT(3'')-IIa,ARO:3004089,NZ_CP069704.1,CAA26199.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,ANT(3'')-IIa,ARO:3004089,NZ_CP070907.1,CAA26199.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,ANT(3'')-IIa,ARO:3004089,NZ_LR130553.1,CAA26199.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,ANT(3'')-IIa,ARO:3004089,NZ_MH763829.1,CAA26199.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,ANT(3'')-IIa,ARO:3004089,NZ_MK439959.1,CAA26199.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,ANT(6)-Ia,ARO:3002626,GCA_002610805.1,AHE40557.1,Exiguobacterium sp. S3-2,aminoglycoside antibiotic,aminoglycoside
+P-P,ANT(6)-Ia,ARO:3002626,NZ_CP020859.1,AHE40557.1,Exiguobacterium sp. S3-2,aminoglycoside antibiotic,aminoglycoside
+P-P,ANT(6)-Ia,ARO:3002626,NZ_CP062072.1,AHE40557.1,Exiguobacterium sp. S3-2,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,CP034786.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,CP042894.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,CP052281.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,CP052311.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,CP052352.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,CP052393.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP010243.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP019054.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP019262.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP029493.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP029688.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP032890.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP033379.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP033632.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP034590.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP034789.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP040928.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP040928.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP043218.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP047005.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP048027.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP050045.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP055258.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP056516.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP056516.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP063488.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP063502.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP071075.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP072806.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_CP077204.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_LR130553.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_LT985263.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_MG196293.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_MG825383.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_MG825383.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_MK439959.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3'')-Ib,ARO:3002639,NZ_MN086777.1,ABK33456.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3')-Ia,ARO:3002641,NZ_CP007729.1,CAE51638.1,Serratia marcescens ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3')-Ia,ARO:3002641,NZ_CP019054.1,CAE51638.1,Serratia marcescens ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3')-Ia,ARO:3002641,NZ_CP027122.1,CAE51638.1,Serratia marcescens ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3')-Ia,ARO:3002641,NZ_CP027122.1,CAE51638.1,Serratia marcescens ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3')-Ia,ARO:3002641,NZ_CP029493.1,CAE51638.1,Serratia marcescens ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3')-Ia,ARO:3002641,NZ_CP032239.1,CAE51638.1,Serratia marcescens ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3')-Ia,ARO:3002641,NZ_CP034755.1,CAE51638.1,Serratia marcescens ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3')-Ia,ARO:3002641,NZ_CP034755.1,CAE51638.1,Serratia marcescens ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3')-Ia,ARO:3002641,NZ_CP037929.1,CAE51638.1,Serratia marcescens ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3')-Ia,ARO:3002641,NZ_CP040928.1,CAE51638.1,Serratia marcescens ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3')-Ia,ARO:3002641,NZ_CP055258.1,CAE51638.1,Serratia marcescens ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3')-Ia,ARO:3002641,NZ_CP058165.1,CAE51638.1,Serratia marcescens ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3')-Ia,ARO:3002641,NZ_CP080128.1,CAE51638.1,Serratia marcescens ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3')-Ia,ARO:3002641,NZ_LR130553.1,CAE51638.1,Serratia marcescens ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3')-Ia,ARO:3002641,NZ_LT985263.1,CAE51638.1,Serratia marcescens ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3')-Ia,ARO:3002641,NZ_MG196293.1,CAE51638.1,Serratia marcescens ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3')-Ia,ARO:3002641,NZ_MN922301.1,CAE51638.1,Serratia marcescens ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3')-IIa,ARO:3002644,NZ_CP032067.1,CAA23892.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3')-IIa,ARO:3002644,NZ_CP033632.1,CAA23892.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3')-VI,ARO:3003687,NZ_CP021962.1,AGI04227.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(3')-VIa,ARO:3002652,NZ_CP021962.1,CAA30578.1,Acinetobacter baumannii ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(4)-Ia,ARO:3002655,NZ_CP010146.1,CAA24743.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(4)-Ia,ARO:3002655,NZ_CP019054.1,CAA24743.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(4)-Ia,ARO:3002655,NZ_CP033251.1,CAA24743.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(4)-Ia,ARO:3002655,NZ_CP055258.1,CAA24743.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(4)-Ia,ARO:3002655,NZ_MG196293.1,CAA24743.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(4)-Ia,ARO:3002655,NZ_MN510447.1,CAA24743.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,CP034786.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,CP042894.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,CP052281.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,CP052311.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,CP052352.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,CP052393.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP010243.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP019054.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP019262.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP029493.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP029688.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP032890.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP033379.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP033632.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP034590.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP034789.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP040928.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP040928.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP043218.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP047005.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP048027.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP050045.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP055258.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP056516.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP056516.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP063477.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP063488.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP063502.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP071075.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP072806.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_CP077204.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_LR130553.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_LT985263.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_MG196293.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_MG825383.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_MG825383.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_MK439959.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,APH(6)-Id,ARO:3002660,NZ_MN086777.1,AAC23556.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,armA ,ARO:3000858,CP052393.1,ADC55560.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,armA ,ARO:3000858,CP052423.1,ADC55560.1,Pseudomonas aeruginosa ,aminoglycoside antibiotic,aminoglycoside
+P-P,arr-2,ARO:3002847,NZ_CP045677.1,AAC64366.1,Pseudomonas aeruginosa ,rifamycin antibiotic,rifamycin
+P-P,arr-2,ARO:3002847,NZ_CP053046.1,AAC64366.1,Pseudomonas aeruginosa ,rifamycin antibiotic,rifamycin
+P-P,arr-2,ARO:3002847,NZ_CP079728.1,AAC64366.1,Pseudomonas aeruginosa ,rifamycin antibiotic,rifamycin
+P-P,arr-2,ARO:3002847,NZ_MH763829.1,AAC64366.1,Pseudomonas aeruginosa ,rifamycin antibiotic,rifamycin
+P-P,arr-2,ARO:3002847,NZ_MK439959.1,AAC64366.1,Pseudomonas aeruginosa ,rifamycin antibiotic,rifamycin
+P-P,arr-3,ARO:3002848,NZ_CP034755.1,ACD56151.1,Escherichia coli ,rifamycin antibiotic,rifamycin
+P-P,arr-3,ARO:3002848,NZ_CP066814.1,ACD56151.1,Escherichia coli ,rifamycin antibiotic,rifamycin
+P-P,arr-3,ARO:3002848,NZ_CP068233.1,ACD56151.1,Escherichia coli ,rifamycin antibiotic,rifamycin
+P-P,arr-3,ARO:3002848,NZ_MG196293.1,ACD56151.1,Escherichia coli ,rifamycin antibiotic,rifamycin
+P-P,arr-3,ARO:3002848,NZ_MG196293.1,ACD56151.1,Escherichia coli ,rifamycin antibiotic,rifamycin
+P-P,arr-3,ARO:3002848,NZ_MN961666.1,ACD56151.1,Escherichia coli ,rifamycin antibiotic,rifamycin
+P-P,blt ,ARO:3003006,NZ_CP035192.1,AAC36944.1,Bacillus subtilis subsp. subtilis str. 168,acridine dye;disinfecting agents and intercalating dyes;fluoroquinolone antibiotic,multidrug
+P-P,BRP(MBL) ,ARO:3001205,NZ_CP021962.1,AGH88989.1,Acinetobacter baumannii ,glycopeptide antibiotic,glycopeptide
+P-P,BRP(MBL) ,ARO:3001205,NZ_CP074117.1,AGH88989.1,Acinetobacter baumannii ,glycopeptide antibiotic,glycopeptide
+P-P,CARB-3,ARO:3002242,NZ_CP016381.1,AAB19430.2,Pseudomonas aeruginosa ,penam,beta-lactam
+P-P,catB11,ARO:3004660,NZ_CP016381.1,AID93387.1,Klebsiella oxytoca KONIH1,phenicol antibiotic,phenicol
+P-P,catB3,ARO:3002676,CP052281.1,AFQ93498.1,Enterobacter cloacae ,phenicol antibiotic,phenicol
+P-P,catB3,ARO:3002676,CP052311.1,AFQ93498.1,Enterobacter cloacae ,phenicol antibiotic,phenicol
+P-P,catB3,ARO:3002676,CP052352.1,AFQ93498.1,Enterobacter cloacae ,phenicol antibiotic,phenicol
+P-P,catB3,ARO:3002676,CP052393.1,AFQ93498.1,Enterobacter cloacae ,phenicol antibiotic,phenicol
+P-P,catB3,ARO:3002676,CP052423.1,AFQ93498.1,Enterobacter cloacae ,phenicol antibiotic,phenicol
+P-P,catB3,ARO:3002676,NZ_CP016381.1,AFQ93498.1,Enterobacter cloacae ,phenicol antibiotic,phenicol
+P-P,catB3,ARO:3002676,NZ_CP034755.1,AFQ93498.1,Enterobacter cloacae ,phenicol antibiotic,phenicol
+P-P,catB3,ARO:3002676,NZ_CP037929.1,AFQ93498.1,Enterobacter cloacae ,phenicol antibiotic,phenicol
+P-P,catB3,ARO:3002676,NZ_MG196293.1,AFQ93498.1,Enterobacter cloacae ,phenicol antibiotic,phenicol
+P-P,catB3,ARO:3002676,NZ_MN922301.1,AFQ93498.1,Enterobacter cloacae ,phenicol antibiotic,phenicol
+P-P,catB8,ARO:3002680,NZ_CP077204.1,AAM92461.1,Salmonella enterica subsp. enterica serovar Typhi ,phenicol antibiotic,phenicol
+P-P,catI ,ARO:3002683,CP042894.1,CAA23899.1,Escherichia coli ,phenicol antibiotic,phenicol
+P-P,catI ,ARO:3002683,NC_021654.1,CAA23899.1,Escherichia coli ,phenicol antibiotic,phenicol
+P-P,catI ,ARO:3002683,NZ_CP007729.1,CAA23899.1,Escherichia coli ,phenicol antibiotic,phenicol
+P-P,catI ,ARO:3002683,NZ_CP023686.1,CAA23899.1,Escherichia coli ,phenicol antibiotic,phenicol
+P-P,catI ,ARO:3002683,NZ_CP037929.1,CAA23899.1,Escherichia coli ,phenicol antibiotic,phenicol
+P-P,catI ,ARO:3002683,NZ_MN922301.1,CAA23899.1,Escherichia coli ,phenicol antibiotic,phenicol
+P-P,cmlA1,ARO:3002693,CP042617.1,AAA26057.1,Pseudomonas aeruginosa ,phenicol antibiotic,multidrug
+P-P,cmlA1,ARO:3002693,NZ_CP010154.1,AAA26057.1,Pseudomonas aeruginosa ,phenicol antibiotic,multidrug
+P-P,cmlA1,ARO:3002693,NZ_CP029493.1,AAA26057.1,Pseudomonas aeruginosa ,phenicol antibiotic,multidrug
+P-P,cmlA1,ARO:3002693,NZ_CP059289.1,AAA26057.1,Pseudomonas aeruginosa ,phenicol antibiotic,multidrug
+P-P,cmlA1,ARO:3002693,NZ_CP063488.1,AAA26057.1,Pseudomonas aeruginosa ,phenicol antibiotic,multidrug
+P-P,cmlA1,ARO:3002693,NZ_MN510447.1,AAA26057.1,Pseudomonas aeruginosa ,phenicol antibiotic,multidrug
+P-P,cmlA5,ARO:3002695,NZ_CP053046.1,AAM77075.1,uncultured bacterium ,phenicol antibiotic,multidrug
+P-P,cmlA5,ARO:3002695,NZ_MH763829.1,AAM77075.1,uncultured bacterium ,phenicol antibiotic,multidrug
+P-P,cmlA5,ARO:3002695,NZ_MK439959.1,AAM77075.1,uncultured bacterium ,phenicol antibiotic,multidrug
+P-P,cmlA6,ARO:3002696,NZ_CP016381.1,AAK52606.1,Pseudomonas aeruginosa ,phenicol antibiotic,multidrug
+P-P,cpxA ,ARO:3000830,NZ_CP019203.1,BAB38260.1,Escherichia coli O157:H7 str. Sakai,aminocoumarin antibiotic;aminoglycoside antibiotic,multidrug
+P-P,cpxA ,ARO:3000830,NZ_CP022659.1,BAB38260.1,Escherichia coli O157:H7 str. Sakai,aminocoumarin antibiotic;aminoglycoside antibiotic,multidrug
+P-P,cpxA ,ARO:3000830,NZ_CP051374.1,BAB38260.1,Escherichia coli O157:H7 str. Sakai,aminocoumarin antibiotic;aminoglycoside antibiotic,multidrug
+P-P,CTX-M-14,ARO:3001877,NC_016838.1,AAF72530.1,Escherichia coli ,cephalosporin,beta-lactam
+P-P,CTX-M-14,ARO:3001877,NZ_CP033251.1,AAF72530.1,Escherichia coli ,cephalosporin,beta-lactam
+P-P,CTX-M-14,ARO:3001877,NZ_CP063350.1,AAF72530.1,Escherichia coli ,cephalosporin,beta-lactam
+P-P,CTX-M-142,ARO:3002000,NZ_KY515224.1,AGW25368.1,Escherichia coli ,cephalosporin,beta-lactam
+P-P,CTX-M-15,ARO:3001878,CP052281.1,AAL02127.1,Escherichia coli ,cephalosporin;penam,beta-lactam
+P-P,CTX-M-15,ARO:3001878,CP052311.1,AAL02127.1,Escherichia coli ,cephalosporin;penam,beta-lactam
+P-P,CTX-M-15,ARO:3001878,CP052352.1,AAL02127.1,Escherichia coli ,cephalosporin;penam,beta-lactam
+P-P,CTX-M-15,ARO:3001878,CP052393.1,AAL02127.1,Escherichia coli ,cephalosporin;penam,beta-lactam
+P-P,CTX-M-15,ARO:3001878,CP052423.1,AAL02127.1,Escherichia coli ,cephalosporin;penam,beta-lactam
+P-P,CTX-M-15,ARO:3001878,CP056447.1,AAL02127.1,Escherichia coli ,cephalosporin;penam,beta-lactam
+P-P,CTX-M-15,ARO:3001878,CP056801.1,AAL02127.1,Escherichia coli ,cephalosporin;penam,beta-lactam
+P-P,CTX-M-15,ARO:3001878,NC_023916.1,AAL02127.1,Escherichia coli ,cephalosporin;penam,beta-lactam
+P-P,CTX-M-15,ARO:3001878,NZ_CP021203.1,AAL02127.1,Escherichia coli ,cephalosporin;penam,beta-lactam
+P-P,CTX-M-15,ARO:3001878,NZ_CP045278.1,AAL02127.1,Escherichia coli ,cephalosporin;penam,beta-lactam
+P-P,CTX-M-15,ARO:3001878,NZ_CP050364.1,AAL02127.1,Escherichia coli ,cephalosporin;penam,beta-lactam
+P-P,CTX-M-15,ARO:3001878,NZ_CP075059.1,AAL02127.1,Escherichia coli ,cephalosporin;penam,beta-lactam
+P-P,CTX-M-15,ARO:3001878,NZ_KP453775.1,AAL02127.1,Escherichia coli ,cephalosporin;penam,beta-lactam
+P-P,CTX-M-15,ARO:3001878,NZ_KU980950.1,AAL02127.1,Escherichia coli ,cephalosporin;penam,beta-lactam
+P-P,CTX-M-15,ARO:3001878,NZ_LR890608.1,AAL02127.1,Escherichia coli ,cephalosporin;penam,beta-lactam
+P-P,CTX-M-15,ARO:3001878,NZ_MK125034.1,AAL02127.1,Escherichia coli ,cephalosporin;penam,beta-lactam
+P-P,CTX-M-15,ARO:3001878,NZ_MK125035.1,AAL02127.1,Escherichia coli ,cephalosporin;penam,beta-lactam
+P-P,CTX-M-15,ARO:3001878,NZ_MW590712.1,AAL02127.1,Escherichia coli ,cephalosporin;penam,beta-lactam
+P-P,CTX-M-15,ARO:3001878,NZ_MW646302.1,AAL02127.1,Escherichia coli ,cephalosporin;penam,beta-lactam
+P-P,CTX-M-199,ARO:3005622,NZ_MT773674.1,WP_087587947.1,Escherichia coli ,cephalosporin,beta-lactam
+P-P,CTX-M-27,ARO:3001889,NZ_CP031191.1,AAO61597.1,Escherichia coli ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,CTX-M-27,ARO:3001889,NZ_CP064673.1,AAO61597.1,Escherichia coli ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,CTX-M-27,ARO:3001889,NZ_CP064676.1,AAO61597.1,Escherichia coli ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,CTX-M-27,ARO:3001889,NZ_MF133442.1,AAO61597.1,Escherichia coli ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,CTX-M-28,ARO:3001890,NZ_KY515225.1,CAD70280.1,Escherichia coli ,cephalosporin,beta-lactam
+P-P,CTX-M-3,ARO:3001866,CP060164.1,CAA71321.1,Citrobacter freundii ,cephalosporin;cephamycin;penam,beta-lactam
+P-P,CTX-M-3,ARO:3001866,NZ_KX015668.1,CAA71321.1,Citrobacter freundii ,cephalosporin;cephamycin;penam,beta-lactam
+P-P,CTX-M-55,ARO:3001917,NZ_CP041922.1,ABI34705.1,Escherichia coli ,cephalosporin,beta-lactam
+P-P,CTX-M-55,ARO:3001917,NZ_CP044294.1,ABI34705.1,Escherichia coli ,cephalosporin,beta-lactam
+P-P,CTX-M-55,ARO:3001917,NZ_CP047004.1,ABI34705.1,Escherichia coli ,cephalosporin,beta-lactam
+P-P,CTX-M-55,ARO:3001917,NZ_MK419152.1,ABI34705.1,Escherichia coli ,cephalosporin,beta-lactam
+P-P,CTX-M-64,ARO:3001925,NZ_MT773672.1,BAF63422.1,Shigella sonnei ,cephalosporin,beta-lactam
+P-P,CTX-M-64,ARO:3001925,NZ_MT773673.1,BAF63422.1,Shigella sonnei ,cephalosporin,beta-lactam
+P-P,CTX-M-65,ARO:3001926,NZ_CP010146.1,ABN69105.1,Escherichia coli ,cephalosporin,beta-lactam
+P-P,CTX-M-65,ARO:3001926,NZ_CP033632.1,ABN69105.1,Escherichia coli ,cephalosporin,beta-lactam
+P-P,CTX-M-65,ARO:3001926,NZ_CP061960.1,ABN69105.1,Escherichia coli ,cephalosporin,beta-lactam
+P-P,CTX-M-9,ARO:3001872,NZ_LT985263.1,AAF05311.2,Escherichia coli ,cephalosporin,beta-lactam
+P-P,dfr22,ARO:3005354,NZ_CP066814.1,CAF31623.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfr22,ARO:3005354,NZ_CP068233.1,CAF31623.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA1,ARO:3002854,NZ_CP019262.1,AAP74961.2,Klebsiella oxytoca ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA1,ARO:3002854,NZ_CP029181.1,AAP74961.2,Klebsiella oxytoca ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA1,ARO:3002854,NZ_CP033632.1,AAP74961.2,Klebsiella oxytoca ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA1,ARO:3002854,NZ_CP034789.1,AAP74961.2,Klebsiella oxytoca ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA1,ARO:3002854,NZ_CP063951.1,AAP74961.2,Klebsiella oxytoca ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA1,ARO:3002854,NZ_MG825383.1,AAP74961.2,Klebsiella oxytoca ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,CP042617.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,CP042894.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,CP057733.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,CP057740.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,CP057753.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,NC_021654.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,NZ_CP007729.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,NZ_CP010154.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,NZ_CP019054.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,NZ_CP021842.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,NZ_CP021846.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,NZ_CP027613.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,NZ_CP029244.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,NZ_CP029493.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,NZ_CP029688.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,NZ_CP030285.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,NZ_CP032239.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,NZ_CP037929.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,NZ_CP040928.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,NZ_CP050364.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,NZ_CP055258.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,NZ_CP059289.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,NZ_CP074117.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,NZ_MN510447.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA12,ARO:3002858,NZ_MN922301.1,ADG84870.1,Klebsiella pneumoniae ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA14,ARO:3002859,CP052393.1,AHK10285.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA14,ARO:3002859,NZ_CP010243.1,AHK10285.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA14,ARO:3002859,NZ_CP033379.1,AHK10285.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA14,ARO:3002859,NZ_CP034590.1,AHK10285.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA14,ARO:3002859,NZ_CP037929.1,AHK10285.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA14,ARO:3002859,NZ_CP050364.1,AHK10285.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA14,ARO:3002859,NZ_CP050364.1,AHK10285.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA14,ARO:3002859,NZ_CP053046.1,AHK10285.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA14,ARO:3002859,NZ_CP063469.1,AHK10285.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA14,ARO:3002859,NZ_CP063477.1,AHK10285.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA14,ARO:3002859,NZ_CP063502.1,AHK10285.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA14,ARO:3002859,NZ_CP071075.1,AHK10285.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA14,ARO:3002859,NZ_LR130553.1,AHK10285.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA14,ARO:3002859,NZ_MH763829.1,AHK10285.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA14,ARO:3002859,NZ_MK439959.1,AHK10285.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA14,ARO:3002859,NZ_MN922301.1,AHK10285.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA15,ARO:3003013,NZ_AP019819.1,AHB39758.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA15,ARO:3003013,NZ_CP021897.1,AHB39758.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA15,ARO:3003013,NZ_CP063488.1,AHB39758.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA15,ARO:3003013,NZ_CP068592.1,AHB39758.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA16,ARO:3003014,NZ_LT985263.1,AAK60186.1,Escherichia coli ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA17,ARO:3002860,CP034786.1,ABG91835.1,Pseudomonas aeruginosa ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA17,ARO:3002860,NZ_AP023428.1,ABG91835.1,Pseudomonas aeruginosa ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA17,ARO:3002860,NZ_CP010146.1,ABG91835.1,Pseudomonas aeruginosa ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA17,ARO:3002860,NZ_CP021203.1,ABG91835.1,Pseudomonas aeruginosa ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA17,ARO:3002860,NZ_CP033251.1,ABG91835.1,Pseudomonas aeruginosa ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA17,ARO:3002860,NZ_CP048823.1,ABG91835.1,Pseudomonas aeruginosa ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA17,ARO:3002860,NZ_MN086777.1,ABG91835.1,Pseudomonas aeruginosa ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA19,ARO:3003015,NZ_CP016381.1,CAC81324.1,Salmonella enterica subsp. enterica serovar Typhimurium ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA21,ARO:3003017,NZ_MN178640.1,CAP69659.1,Salmonella enterica subsp. enterica serovar Bredeney ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA23,ARO:3003019,NZ_MK439959.1,CAG34233.2,Salmonella enterica subsp. enterica serovar Typhimurium ,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,dfrA27,ARO:3004550,NZ_MG196293.1,ACD45689.1,Vibrio cholerae non-O1/non-O139,diaminopyrimidine antibiotic,diaminopyrimidine
+P-P,DHA-1,ARO:3002132,NZ_MH763829.1,CAA76196.1,Salmonella enterica subsp. enterica serovar Enteritidis ,cephalosporin;cephamycin,beta-lactam
+P-P,Ecol_catII ,ARO:3004656,NZ_CP044294.1,CAA37805.1,Escherichia coli str. K-12,phenicol antibiotic,phenicol
+P-P,Ecol_catII ,ARO:3004656,NZ_CP050364.1,CAA37805.1,Escherichia coli str. K-12,phenicol antibiotic,phenicol
+P-P,Ecol_catII ,ARO:3004656,NZ_MK433207.1,CAA37805.1,Escherichia coli str. K-12,phenicol antibiotic,phenicol
+P-P,Ecol_emrE ,ARO:3004039,IMGVR_UViG_640753024_000002,CAA77936.1,Escherichia coli ,macrolide antibiotic,multidrug
+P-P,Ecol_mdfA ,ARO:3001328,uvig_576774,AFH35853.1,Escherichia coli ,benzalkonium chloride;rhodamine;tetracycline antibiotic,multidrug
+P-P,Erm(42),ARO:3003106,CP017387.1,CBY77552.1,Pasteurella multocida ,lincosamide antibiotic;macrolide antibiotic;streptogramin antibiotic,mls
+P-P,Erm(42),ARO:3003106,NZ_CP017778.1,CBY77552.1,Pasteurella multocida ,lincosamide antibiotic;macrolide antibiotic;streptogramin antibiotic,mls
+P-P,ErmB ,ARO:3000375,NZ_CP021203.1,AAF86219.1,Enterococcus faecium ,lincosamide antibiotic;macrolide antibiotic;streptogramin antibiotic,mls
+P-P,floR ,ARO:3002705,CP034786.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,CP042894.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_AP023428.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_CP010146.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_CP010243.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_CP018956.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_CP021835.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_CP029493.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_CP029688.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_CP032239.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_CP032890.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_CP033251.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_CP033379.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_CP034590.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_CP040928.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_CP041590.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_CP044294.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_CP047005.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_CP048027.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_CP053046.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_CP063477.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_CP063502.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_CP070907.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_CP072806.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_LR130553.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_MG825383.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,floR ,ARO:3002705,NZ_MH763829.1,AAG16656.1,Escherichia coli ,phenicol antibiotic,multidrug
+P-P,FosA3,ARO:3002872,NZ_CP032067.1,AEG78825.1,Escherichia coli ,fosfomycin,fosfomycin
+P-P,FosA3,ARO:3002872,NZ_CP032890.1,AEG78825.1,Escherichia coli ,fosfomycin,fosfomycin
+P-P,FosA3,ARO:3002872,NZ_CP033251.1,AEG78825.1,Escherichia coli ,fosfomycin,fosfomycin
+P-P,FosA3,ARO:3002872,NZ_CP033632.1,AEG78825.1,Escherichia coli ,fosfomycin,fosfomycin
+P-P,FosA3,ARO:3002872,NZ_CP047005.1,AEG78825.1,Escherichia coli ,fosfomycin,fosfomycin
+P-P,FosA3,ARO:3002872,NZ_CP048027.1,AEG78825.1,Escherichia coli ,fosfomycin,fosfomycin
+P-P,GES-1,ARO:3002330,NZ_CP066814.1,AAF27723.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,GES-1,ARO:3002330,NZ_CP068233.1,AAF27723.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,H-NS ,ARO:3000676,NZ_CP031350.1,BAB35162.1,Escherichia coli O157:H7 str. Sakai,cephalosporin;cephamycin;fluoroquinolone antibiotic;macrolide antibiotic;penam;tetracycline antibiotic,multidrug
+P-P,H-NS ,ARO:3000676,uvig_482885,BAB35162.1,Escherichia coli O157:H7 str. Sakai,cephalosporin;cephamycin;fluoroquinolone antibiotic;macrolide antibiotic;penam;tetracycline antibiotic,multidrug
+P-P,IMP-1,ARO:3002192,NZ_AP018351.1,CAA11471.1,Pseudomonas aeruginosa ,carbapenem;cephalosporin;cephamycin;penam;penem,beta-lactam
+P-P,IMP-26,ARO:3002217,NZ_MN629346.1,ACY01749.1,Pseudomonas aeruginosa ,carbapenem;cephalosporin;cephamycin;penam;penem,beta-lactam
+P-P,IMP-26,ARO:3002217,NZ_MN961666.1,ACY01749.1,Pseudomonas aeruginosa ,carbapenem;cephalosporin;cephamycin;penam;penem,beta-lactam
+P-P,KPC-2,ARO:3002312,NZ_CP016381.1,AAK70220.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;monobactam;penam,beta-lactam
+P-P,KPC-2,ARO:3002312,NZ_CP018956.1,AAK70220.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;monobactam;penam,beta-lactam
+P-P,KPC-2,ARO:3002312,NZ_CP021835.1,AAK70220.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;monobactam;penam,beta-lactam
+P-P,KPC-2,ARO:3002312,NZ_CP025141.1,AAK70220.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;monobactam;penam,beta-lactam
+P-P,KPC-2,ARO:3002312,NZ_CP025147.1,AAK70220.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;monobactam;penam,beta-lactam
+P-P,KPC-2,ARO:3002312,NZ_CP061960.1,AAK70220.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;monobactam;penam,beta-lactam
+P-P,KPC-2,ARO:3002312,NZ_KX928752.1,AAK70220.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;monobactam;penam,beta-lactam
+P-P,KPC-2,ARO:3002312,NZ_MK433207.1,AAK70220.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;monobactam;penam,beta-lactam
+P-P,KPC-2,ARO:3002312,NZ_MK439959.1,AAK70220.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;monobactam;penam,beta-lactam
+P-P,KPC-3,ARO:3002313,NZ_CP061398.1,AAL05630.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;monobactam;penam,beta-lactam
+P-P,KPC-33,ARO:3005365,NZ_CP025144.1,AUD37084.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;monobactam;penam,beta-lactam
+P-P,KPC-4,ARO:3002314,NZ_CP034755.1,ACA34343.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;monobactam;penam,beta-lactam
+P-P,Kpne_OmpK37,ARO:3004122,NZ_LR134278.1,CAA09666.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;cephamycin;monobactam;penam;penem,exclude
+P-P,linG ,ARO:3002879,NZ_CP040928.1,ABG65740.1,Salmonella enterica subsp. enterica serovar Stanley ,lincosamide antibiotic,lincosamide
+P-P,linG ,ARO:3002879,NZ_CP069704.1,ABG65740.1,Salmonella enterica subsp. enterica serovar Stanley ,lincosamide antibiotic,lincosamide
+P-P,MCR-1.1,ARO:3003689,CP047090.1,AKF16168.1,Escherichia coli ,peptide antibiotic,peptide
+P-P,MCR-1.1,ARO:3003689,MF510496.1,AKF16168.1,Escherichia coli ,peptide antibiotic,peptide
+P-P,MCR-1.1,ARO:3003689,NZ_CP029493.1,AKF16168.1,Escherichia coli ,peptide antibiotic,peptide
+P-P,MCR-1.1,ARO:3003689,NZ_CP035313.1,AKF16168.1,Escherichia coli ,peptide antibiotic,peptide
+P-P,MCR-1.1,ARO:3003689,NZ_CP080254.1,AKF16168.1,Escherichia coli ,peptide antibiotic,peptide
+P-P,MCR-1.1,ARO:3003689,NZ_KX518745.1,AKF16168.1,Escherichia coli ,peptide antibiotic,peptide
+P-P,MCR-1.1,ARO:3003689,NZ_KX880944.1,AKF16168.1,Escherichia coli ,peptide antibiotic,peptide
+P-P,MCR-1.1,ARO:3003689,NZ_LC511659.1,AKF16168.1,Escherichia coli ,peptide antibiotic,peptide
+P-P,MCR-1.1,ARO:3003689,NZ_MG288678.1,AKF16168.1,Escherichia coli ,peptide antibiotic,peptide
+P-P,MCR-1.1,ARO:3003689,NZ_MH781719.1,AKF16168.1,Escherichia coli ,peptide antibiotic,peptide
+P-P,MCR-1.1,ARO:3003689,NZ_MH844525.1,AKF16168.1,Escherichia coli ,peptide antibiotic,peptide
+P-P,MCR-1.1,ARO:3003689,NZ_MK256965.1,AKF16168.1,Escherichia coli ,peptide antibiotic,peptide
+P-P,MCR-1.1,ARO:3003689,NZ_MK419152.1,AKF16168.1,Escherichia coli ,peptide antibiotic,peptide
+P-P,MCR-1.1,ARO:3003689,NZ_MN232192.1,AKF16168.1,Escherichia coli ,peptide antibiotic,peptide
+P-P,MdtK ,ARO:3001327,uvig_578912,AML99881.1,Salmonella enterica subsp. enterica serovar Typhimurium ,fluoroquinolone antibiotic,multidrug
+P-P,mef(B) ,ARO:3003107,CP042617.1,ACJ63262.1,Escherichia coli ,macrolide antibiotic,multidrug
+P-P,mef(B) ,ARO:3003107,NZ_CP063488.1,ACJ63262.1,Escherichia coli ,macrolide antibiotic,multidrug
+P-P,mef(B) ,ARO:3003107,NZ_CP070907.1,ACJ63262.1,Escherichia coli ,macrolide antibiotic,multidrug
+P-P,mef(B) ,ARO:3003107,NZ_LR130553.1,ACJ63262.1,Escherichia coli ,macrolide antibiotic,multidrug
+P-P,mef(B) ,ARO:3003107,NZ_MN510447.1,ACJ63262.1,Escherichia coli ,macrolide antibiotic,multidrug
+P-P,mel ,ARO:3000616,GCA_002610805.1,AAL73129.1,Streptococcus pyogenes ,lincosamide antibiotic;macrolide antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic;streptogramin antibiotic;tetracycline antibiotic,multidrug
+P-P,mel ,ARO:3000616,GCA_002610805.1,AAL73129.1,Streptococcus pyogenes ,lincosamide antibiotic;macrolide antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic;streptogramin antibiotic;tetracycline antibiotic,multidrug
+P-P,mphA ,ARO:3000316,CP057733.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,CP057740.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,CP057753.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NC_021654.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_CP007729.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_CP019262.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_CP021203.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_CP029244.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_CP029493.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_CP029688.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_CP030285.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_CP032067.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_CP032239.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_CP033251.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_CP033632.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_CP034755.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_CP034789.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_CP037929.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_CP040928.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_CP050364.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_CP058165.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_CP068934.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_CP071075.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_KP453775.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_MG825383.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_MH763829.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphA ,ARO:3000316,NZ_MN922301.1,BAA03776.1,Escherichia coli ,macrolide antibiotic,macrolide
+P-P,mphE ,ARO:3003741,CP052311.1,ABI20451.1,uncultured bacterium ,macrolide antibiotic,macrolide
+P-P,mphE ,ARO:3003741,CP052352.1,ABI20451.1,uncultured bacterium ,macrolide antibiotic,macrolide
+P-P,mphE ,ARO:3003741,CP052393.1,ABI20451.1,uncultured bacterium ,macrolide antibiotic,macrolide
+P-P,mphE ,ARO:3003741,CP052423.1,ABI20451.1,uncultured bacterium ,macrolide antibiotic,macrolide
+P-P,mphE ,ARO:3003741,NZ_CP016381.1,ABI20451.1,uncultured bacterium ,macrolide antibiotic,macrolide
+P-P,mphE ,ARO:3003741,NZ_CP027122.1,ABI20451.1,uncultured bacterium ,macrolide antibiotic,macrolide
+P-P,mphE ,ARO:3003741,NZ_CP031445.1,ABI20451.1,uncultured bacterium ,macrolide antibiotic,macrolide
+P-P,mphE ,ARO:3003741,NZ_CP040426.1,ABI20451.1,uncultured bacterium ,macrolide antibiotic,macrolide
+P-P,mphE ,ARO:3003741,NZ_CP041590.1,ABI20451.1,uncultured bacterium ,macrolide antibiotic,macrolide
+P-P,msrE ,ARO:3003109,CP052311.1,ACB05808.1,Acinetobacter baumannii ,lincosamide antibiotic;macrolide antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic;streptogramin antibiotic;tetracycline antibiotic,multidrug
+P-P,msrE ,ARO:3003109,CP052352.1,ACB05808.1,Acinetobacter baumannii ,lincosamide antibiotic;macrolide antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic;streptogramin antibiotic;tetracycline antibiotic,multidrug
+P-P,msrE ,ARO:3003109,CP052393.1,ACB05808.1,Acinetobacter baumannii ,lincosamide antibiotic;macrolide antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic;streptogramin antibiotic;tetracycline antibiotic,multidrug
+P-P,msrE ,ARO:3003109,CP052423.1,ACB05808.1,Acinetobacter baumannii ,lincosamide antibiotic;macrolide antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic;streptogramin antibiotic;tetracycline antibiotic,multidrug
+P-P,msrE ,ARO:3003109,NZ_CP016381.1,ACB05808.1,Acinetobacter baumannii ,lincosamide antibiotic;macrolide antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic;streptogramin antibiotic;tetracycline antibiotic,multidrug
+P-P,msrE ,ARO:3003109,NZ_CP027122.1,ACB05808.1,Acinetobacter baumannii ,lincosamide antibiotic;macrolide antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic;streptogramin antibiotic;tetracycline antibiotic,multidrug
+P-P,msrE ,ARO:3003109,NZ_CP031445.1,ACB05808.1,Acinetobacter baumannii ,lincosamide antibiotic;macrolide antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic;streptogramin antibiotic;tetracycline antibiotic,multidrug
+P-P,msrE ,ARO:3003109,NZ_CP040426.1,ACB05808.1,Acinetobacter baumannii ,lincosamide antibiotic;macrolide antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic;streptogramin antibiotic;tetracycline antibiotic,multidrug
+P-P,msrE ,ARO:3003109,NZ_CP041590.1,ACB05808.1,Acinetobacter baumannii ,lincosamide antibiotic;macrolide antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic;streptogramin antibiotic;tetracycline antibiotic,multidrug
+P-P,NDM-1,ARO:3000589,NZ_CP021720.1,CAZ39946.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;cephamycin;penam,beta-lactam
+P-P,NDM-1,ARO:3000589,NZ_CP021962.1,CAZ39946.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;cephamycin;penam,beta-lactam
+P-P,NDM-1,ARO:3000589,NZ_MG196293.1,CAZ39946.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;cephamycin;penam,beta-lactam
+P-P,NDM-5,ARO:3000467,NZ_CP074117.1,AEN03071.1,Escherichia coli ,carbapenem;cephalosporin;cephamycin;penam,beta-lactam
+P-P,oqxA ,ARO:3003922,NZ_AP023428.1,AAP43109.1,Escherichia coli ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,multidrug
+P-P,oqxA ,ARO:3003922,NZ_CP019262.1,AAP43109.1,Escherichia coli ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,multidrug
+P-P,oqxA ,ARO:3003922,NZ_CP029181.1,AAP43109.1,Escherichia coli ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,multidrug
+P-P,oqxA ,ARO:3003922,NZ_CP032067.1,AAP43109.1,Escherichia coli ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,multidrug
+P-P,oqxA ,ARO:3003922,NZ_CP033632.1,AAP43109.1,Escherichia coli ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,multidrug
+P-P,oqxA ,ARO:3003922,NZ_CP034789.1,AAP43109.1,Escherichia coli ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,multidrug
+P-P,oqxA ,ARO:3003922,NZ_CP048823.1,AAP43109.1,Escherichia coli ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,multidrug
+P-P,oqxA ,ARO:3003922,NZ_CP059289.1,AAP43109.1,Escherichia coli ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,multidrug
+P-P,oqxA ,ARO:3003922,NZ_CP063951.1,AAP43109.1,Escherichia coli ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,multidrug
+P-P,oqxA ,ARO:3003922,NZ_MG825383.1,AAP43109.1,Escherichia coli ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,multidrug
+P-P,oqxA ,ARO:3003922,NZ_MN086777.1,AAP43109.1,Escherichia coli ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,multidrug
+P-P,oqxB ,ARO:3003923,NZ_AP023428.1,AAP43110.2,Escherichia coli ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,multidrug
+P-P,oqxB ,ARO:3003923,NZ_CP019262.1,AAP43110.2,Escherichia coli ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,multidrug
+P-P,oqxB ,ARO:3003923,NZ_CP029181.1,AAP43110.2,Escherichia coli ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,multidrug
+P-P,oqxB ,ARO:3003923,NZ_CP032067.1,AAP43110.2,Escherichia coli ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,multidrug
+P-P,oqxB ,ARO:3003923,NZ_CP033632.1,AAP43110.2,Escherichia coli ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,multidrug
+P-P,oqxB ,ARO:3003923,NZ_CP034789.1,AAP43110.2,Escherichia coli ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,multidrug
+P-P,oqxB ,ARO:3003923,NZ_CP048823.1,AAP43110.2,Escherichia coli ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,multidrug
+P-P,oqxB ,ARO:3003923,NZ_CP059289.1,AAP43110.2,Escherichia coli ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,multidrug
+P-P,oqxB ,ARO:3003923,NZ_CP063951.1,AAP43110.2,Escherichia coli ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,multidrug
+P-P,oqxB ,ARO:3003923,NZ_MG825383.1,AAP43110.2,Escherichia coli ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,multidrug
+P-P,oqxB ,ARO:3003923,NZ_MN086777.1,AAP43110.2,Escherichia coli ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,multidrug
+P-P,OXA-1,ARO:3001396,CP052281.1,AFB82783.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,OXA-1,ARO:3001396,CP052352.1,AFB82783.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,OXA-1,ARO:3001396,CP052393.1,AFB82783.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,OXA-1,ARO:3001396,CP052423.1,AFB82783.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,OXA-1,ARO:3001396,NZ_CP034755.1,AFB82783.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,OXA-1,ARO:3001396,NZ_CP037929.1,AFB82783.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,OXA-1,ARO:3001396,NZ_MN922301.1,AFB82783.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,OXA-10,ARO:3001405,NZ_CP053046.1,AAG45720.1,Escherichia coli ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,OXA-10,ARO:3001405,NZ_MH763829.1,AAG45720.1,Escherichia coli ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,OXA-10,ARO:3001405,NZ_MK439959.1,AAG45720.1,Escherichia coli ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,OXA-181,ARO:3001784,NZ_CP068934.1,AEP16366.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,OXA-181,ARO:3001784,NZ_MN080489.1,AEP16366.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,OXA-23,ARO:3001418,NZ_CP039519.1,AAV65289.1,Acinetobacter baumannii ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,ParR ,ARO:3005068,uvig_577555,AAG05188.1,Pseudomonas aeruginosa PAO1,acridine dye;aminoglycoside antibiotic;carbapenem;cephalosporin;cephamycin;disinfecting agents and intercalating dyes;fluoroquinolone antibiotic;macrolide antibiotic;monobactam;penam;penem;phenicol antibiotic;tetracycline antibiotic,multidrug
+P-P,ParS ,ARO:3005067,uvig_577555,AAG05187.1,Pseudomonas aeruginosa PAO1,acridine dye;aminoglycoside antibiotic;carbapenem;cephalosporin;cephamycin;disinfecting agents and intercalating dyes;fluoroquinolone antibiotic;macrolide antibiotic;monobactam;penam;penem;phenicol antibiotic;tetracycline antibiotic,multidrug
+P-P,qacE ,ARO:3005009,NZ_CP021203.1,AEH26330.1,Klebsiella pneumoniae ,disinfecting agents and intercalating dyes,multidrug
+P-P,qacE ,ARO:3005009,NZ_CP063951.1,AEH26330.1,Klebsiella pneumoniae ,disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,CP057733.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,CP057740.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,CP057753.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NC_021654.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_AP019819.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_AP023428.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP007729.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP016381.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP016381.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP018956.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP019054.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP019262.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP021835.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP021842.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP021846.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP021897.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP025141.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP025144.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP025147.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP027613.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP029181.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP029244.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP030285.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP032183.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP033251.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP033632.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP034755.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP034755.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP034789.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP037929.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP040928.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP055258.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP055600.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP062816.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP062827.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP062833.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP062839.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP062884.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP062896.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP066814.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP068233.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP074117.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_CP076548.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_KP453775.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_LT985263.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_MG196293.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_MG196293.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_MG825383.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_MH763829.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_MN178640.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_MN629346.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_MN922301.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacEdelta1,ARO:3005010,NZ_MN961666.1,AAC44316.1,Pseudomonas aeruginosa ,acridine dye;disinfecting agents and intercalating dyes,multidrug
+P-P,qacL ,ARO:3005098,CP042617.1,AAZ42322.1,Vibrio cholerae ,disinfecting agents and intercalating dyes,multidrug
+P-P,qacL ,ARO:3005098,NZ_CP010154.1,AAZ42322.1,Vibrio cholerae ,disinfecting agents and intercalating dyes,multidrug
+P-P,qacL ,ARO:3005098,NZ_CP029493.1,AAZ42322.1,Vibrio cholerae ,disinfecting agents and intercalating dyes,multidrug
+P-P,qacL ,ARO:3005098,NZ_CP034755.1,AAZ42322.1,Vibrio cholerae ,disinfecting agents and intercalating dyes,multidrug
+P-P,qacL ,ARO:3005098,NZ_CP059289.1,AAZ42322.1,Vibrio cholerae ,disinfecting agents and intercalating dyes,multidrug
+P-P,qacL ,ARO:3005098,NZ_CP063488.1,AAZ42322.1,Vibrio cholerae ,disinfecting agents and intercalating dyes,multidrug
+P-P,qacL ,ARO:3005098,NZ_CP070907.1,AAZ42322.1,Vibrio cholerae ,disinfecting agents and intercalating dyes,multidrug
+P-P,qacL ,ARO:3005098,NZ_LR130553.1,AAZ42322.1,Vibrio cholerae ,disinfecting agents and intercalating dyes,multidrug
+P-P,qacL ,ARO:3005098,NZ_MN510447.1,AAZ42322.1,Vibrio cholerae ,disinfecting agents and intercalating dyes,multidrug
+P-P,QepA2,ARO:3004103,NZ_KX928752.1,ACF70723.1,Escherichia coli ,fluoroquinolone antibiotic,multidrug
+P-P,QnrB1,ARO:3002714,NZ_CP037929.1,ABC86904.2,Klebsiella pneumoniae ,fluoroquinolone antibiotic,quinolone
+P-P,QnrB1,ARO:3002714,NZ_CP050364.1,ABC86904.2,Klebsiella pneumoniae ,fluoroquinolone antibiotic,quinolone
+P-P,QnrB1,ARO:3002714,NZ_CP050364.1,ABC86904.2,Klebsiella pneumoniae ,fluoroquinolone antibiotic,quinolone
+P-P,QnrB1,ARO:3002714,NZ_MN922301.1,ABC86904.2,Klebsiella pneumoniae ,fluoroquinolone antibiotic,quinolone
+P-P,QnrB10,ARO:3002724,NZ_CP016381.1,ABG56269.1,Citrobacter freundii ,fluoroquinolone antibiotic,quinolone
+P-P,QnrB20,ARO:3002735,CP017387.1,BAG55487.1,Escherichia coli ,fluoroquinolone antibiotic,quinolone
+P-P,QnrB20,ARO:3002735,NZ_CP017778.1,BAG55487.1,Escherichia coli ,fluoroquinolone antibiotic,quinolone
+P-P,QnrB22,ARO:3002737,NZ_MH763829.1,ACS71746.1,Citrobacter werkmanii ,fluoroquinolone antibiotic,quinolone
+P-P,QnrS1,ARO:3002790,NZ_CP010131.1,ABF47469.1,Salmonella enterica subsp. enterica serovar Bovismorbificans ,fluoroquinolone antibiotic,quinolone
+P-P,QnrS1,ARO:3002790,NZ_CP010243.1,ABF47469.1,Salmonella enterica subsp. enterica serovar Bovismorbificans ,fluoroquinolone antibiotic,quinolone
+P-P,QnrS1,ARO:3002790,NZ_CP033379.1,ABF47469.1,Salmonella enterica subsp. enterica serovar Bovismorbificans ,fluoroquinolone antibiotic,quinolone
+P-P,QnrS1,ARO:3002790,NZ_CP034590.1,ABF47469.1,Salmonella enterica subsp. enterica serovar Bovismorbificans ,fluoroquinolone antibiotic,quinolone
+P-P,QnrS1,ARO:3002790,NZ_CP053046.1,ABF47469.1,Salmonella enterica subsp. enterica serovar Bovismorbificans ,fluoroquinolone antibiotic,quinolone
+P-P,QnrS1,ARO:3002790,NZ_CP063350.1,ABF47469.1,Salmonella enterica subsp. enterica serovar Bovismorbificans ,fluoroquinolone antibiotic,quinolone
+P-P,QnrS1,ARO:3002790,NZ_CP063469.1,ABF47469.1,Salmonella enterica subsp. enterica serovar Bovismorbificans ,fluoroquinolone antibiotic,quinolone
+P-P,QnrS1,ARO:3002790,NZ_CP063477.1,ABF47469.1,Salmonella enterica subsp. enterica serovar Bovismorbificans ,fluoroquinolone antibiotic,quinolone
+P-P,QnrS1,ARO:3002790,NZ_CP063502.1,ABF47469.1,Salmonella enterica subsp. enterica serovar Bovismorbificans ,fluoroquinolone antibiotic,quinolone
+P-P,QnrS1,ARO:3002790,NZ_CP068934.1,ABF47469.1,Salmonella enterica subsp. enterica serovar Bovismorbificans ,fluoroquinolone antibiotic,quinolone
+P-P,QnrS1,ARO:3002790,NZ_LR883966.1,ABF47469.1,Salmonella enterica subsp. enterica serovar Bovismorbificans ,fluoroquinolone antibiotic,quinolone
+P-P,QnrS11,ARO:3004624,CP042894.1,AFM45990.1,Escherichia coli ,fluoroquinolone antibiotic,quinolone
+P-P,QnrS11,ARO:3004624,NZ_CP044294.1,AFM45990.1,Escherichia coli ,fluoroquinolone antibiotic,quinolone
+P-P,QnrS2,ARO:3002791,NZ_CP070289.2,ABF47470.1,Salmonella enterica subsp. enterica serovar Anatum ,fluoroquinolone antibiotic,quinolone
+P-P,QnrS2,ARO:3002791,NZ_CP072806.1,ABF47470.1,Salmonella enterica subsp. enterica serovar Anatum ,fluoroquinolone antibiotic,quinolone
+P-P,rmtB ,ARO:3000860,NZ_KX928752.1,CAP07796.1,Escherichia coli ,aminoglycoside antibiotic,aminoglycoside
+P-P,rmtF ,ARO:3002666,NZ_CP045677.1,AFJ11385.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,rmtF ,ARO:3002666,NZ_CP050364.1,AFJ11385.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,rmtF ,ARO:3002666,NZ_CP079728.1,AFJ11385.1,Klebsiella pneumoniae ,aminoglycoside antibiotic,aminoglycoside
+P-P,rsmA ,ARO:3005069,IMGVR_UViG_3300020256_000001,AAC16242.1,Pseudomonas aeruginosa ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;phenicol antibiotic,multidrug
+P-P,rsmA ,ARO:3005069,IMGVR_UViG_3300020367_000002,AAC16242.1,Pseudomonas aeruginosa ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;phenicol antibiotic,multidrug
+P-P,rsmA ,ARO:3005069,IMGVR_UViG_3300020383_000005,AAC16242.1,Pseudomonas aeruginosa ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;phenicol antibiotic,multidrug
+P-P,rsmA ,ARO:3005069,IMGVR_UViG_3300027967_000006,AAC16242.1,Pseudomonas aeruginosa ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;phenicol antibiotic,multidrug
+P-P,rsmA ,ARO:3005069,uvig_394467,AAC16242.1,Pseudomonas aeruginosa ,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;phenicol antibiotic,multidrug
+P-P,SHV-1,ARO:3001059,NZ_CP027613.1,ACR66323.1,Klebsiella pneumoniae ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,SHV-12,ARO:3001071,NZ_CP016381.1,AHN60527.1,Enterobacter cloacae ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,SHV-12,ARO:3001071,NZ_CP058165.1,AHN60527.1,Enterobacter cloacae ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,SHV-12,ARO:3001071,NZ_CP061960.1,AHN60527.1,Enterobacter cloacae ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,SHV-12,ARO:3001071,NZ_MH763829.1,AHN60527.1,Enterobacter cloacae ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,SHV-12,ARO:3001071,NZ_MK433207.1,AHN60527.1,Enterobacter cloacae ,carbapenem;cephalosporin;penam,beta-lactam
+P-P,Ssui_ACT_CHL ,ARO:3004455,GCA_002610805.1,BAC11901.1,Streptococcus suis ,phenicol antibiotic,phenicol
+P-P,sul1,ARO:3000410,CP017387.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,CP057733.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,CP057740.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,CP057753.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NC_021654.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_AP018351.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_AP019819.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_AP023428.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP007729.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP010146.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP016381.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP016381.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP016381.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP017778.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP018956.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP019054.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP019262.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP021203.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP021835.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP021842.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP021846.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP021897.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP025141.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP025144.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP025147.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP027613.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP029181.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP029244.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP030285.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP032183.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP033251.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP033632.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP034755.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP034755.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP034755.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP034755.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP034789.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP037929.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP040928.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP055258.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP055600.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP062816.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP062827.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP062833.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP062839.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP062884.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP062896.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP066814.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP068233.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP074117.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_CP076548.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_KP453775.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_LT985263.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_MG196293.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_MG196293.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_MG825383.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_MH763829.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_MH763829.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_MN178640.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_MN629346.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_MN922301.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul1,ARO:3000410,NZ_MN961666.1,AEJ33969.1,Vibrio fluvialis ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,CP017387.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,CP034786.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,CP042894.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,Gammaproteobacteria_gi_452322300,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,Gammaproteobacteria_gi_565643352,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NC_023031.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_AP023428.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP010146.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP010243.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP017778.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP018956.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP019262.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP021835.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP023025.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP025141.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP025144.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP025147.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP029493.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP029688.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP029688.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP032239.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP032890.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP033251.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP033379.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP033632.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP034590.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP034789.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP040928.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP041590.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP047005.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP048027.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP050045.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP059387.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP063469.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP063502.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP071075.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP072527.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_CP072806.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_LR130553.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_LT985263.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_MG825383.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_MH763829.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_MK439959.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul2,ARO:3000412,NZ_MN086777.1,AAL59753.1,Vibrio cholerae ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul3,ARO:3000413,CP042617.1,ACJ63260.1,Escherichia coli ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul3,ARO:3000413,NZ_CP010154.1,ACJ63260.1,Escherichia coli ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul3,ARO:3000413,NZ_CP029493.1,ACJ63260.1,Escherichia coli ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul3,ARO:3000413,NZ_CP032239.1,ACJ63260.1,Escherichia coli ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul3,ARO:3000413,NZ_CP059289.1,ACJ63260.1,Escherichia coli ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul3,ARO:3000413,NZ_CP063488.1,ACJ63260.1,Escherichia coli ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul3,ARO:3000413,NZ_CP070907.1,ACJ63260.1,Escherichia coli ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul3,ARO:3000413,NZ_LR130553.1,ACJ63260.1,Escherichia coli ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul3,ARO:3000413,NZ_MN510447.1,ACJ63260.1,Escherichia coli ,sulfonamide antibiotic;sulfone antibiotic,sulfonamide
+P-P,sul4,ARO:3004361,NZ_CP077204.1,WP_102607457.1,uncultured bacterium ,sulfonamide antibiotic,sulfonamide
+P-P,TEM-1,ARO:3000873,CP042894.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,CP060164.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,IMGVR_UViG_3300028955_000001,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP010154.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP010243.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP018956.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP019262.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP019891.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP021835.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP025141.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP025144.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP025147.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP027605.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP029244.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP029493.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP029688.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP030285.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP032239.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP033379.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP034590.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP034755.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP034789.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP039843.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP040928.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP043218.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP050045.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP058165.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP059289.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP061398.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP063350.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP063477.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP063502.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP064114.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP069704.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP070907.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP071075.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP080123.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_CP080128.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_KP453775.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_KX015668.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_KX928752.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_LR130553.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_LR883966.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_MG825383.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_MN080489.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-1,ARO:3000873,NZ_MN510447.1,CAD09800.1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-116,ARO:3000979,KY563785.1,AAB39956.1,Staphylococcus aureus ,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-135,ARO:3000999,NZ_CP063488.1,CAG25427.1,Salmonella enterica subsp. enterica serovar Typhimurium ,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-190,ARO:3001050,NZ_CP068934.1,AEL88240.1,Escherichia coli ,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-206,ARO:3001383,NZ_MK419152.1,AGK82336.1,Escherichia coli ,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-210,ARO:3001387,NZ_CP044034.1,WP_032072208.1,Escherichia coli ,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-214,ARO:3001391,NZ_LT985263.1,AJO16044.1,Escherichia coli ,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,TEM-34,ARO:3000904,NZ_CP053046.1,AGE11905.1,Haemophilus parainfluenzae ,cephalosporin;monobactam;penam;penem,beta-lactam
+P-P,tet(A) ,ARO:3000165,CP034786.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,CP034786.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,CP042894.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,CP042894.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,CP056619.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP010131.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP010146.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP010243.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP010243.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP010243.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP019262.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP021842.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP021846.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP029181.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP029244.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP029493.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP030285.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP032239.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP032239.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP032890.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP033379.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP033379.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP033632.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP034590.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP034789.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP044294.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP047005.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP048027.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP048823.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP050045.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP053046.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP053046.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP063469.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP063477.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP063477.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP063488.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP063502.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP063951.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP068592.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP068592.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP069684.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP069684.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP070289.2,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP070907.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP070916.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP072806.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP077204.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP077222.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP080123.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP080128.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP080128.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_CP080135.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_LR883966.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_LT985263.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_MG825383.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_MG825383.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_MK439959.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(A) ,ARO:3000165,NZ_MN086777.1,AAN06707.1,Shigella sonnei ,tetracycline antibiotic,multidrug
+P-P,tet(B) ,ARO:3000166,Gammaproteobacteria_gi_565643352,BAC67143.1,Gram-negative bacterium TC71,tetracycline antibiotic,multidrug
+P-P,tet(B) ,ARO:3000166,NC_023031.1,BAC67143.1,Gram-negative bacterium TC71,tetracycline antibiotic,multidrug
+P-P,tet(B) ,ARO:3000166,NZ_CP010154.1,BAC67143.1,Gram-negative bacterium TC71,tetracycline antibiotic,multidrug
+P-P,tet(B) ,ARO:3000166,NZ_CP023025.1,BAC67143.1,Gram-negative bacterium TC71,tetracycline antibiotic,multidrug
+P-P,tet(B) ,ARO:3000166,NZ_CP040928.1,BAC67143.1,Gram-negative bacterium TC71,tetracycline antibiotic,multidrug
+P-P,tet(B) ,ARO:3000166,NZ_CP059289.1,BAC67143.1,Gram-negative bacterium TC71,tetracycline antibiotic,multidrug
+P-P,tet(B) ,ARO:3000166,NZ_CP071075.1,BAC67143.1,Gram-negative bacterium TC71,tetracycline antibiotic,multidrug
+P-P,tet(B) ,ARO:3000166,NZ_CP072527.1,BAC67143.1,Gram-negative bacterium TC71,tetracycline antibiotic,multidrug
+P-P,tet(B) ,ARO:3000166,NZ_KP453775.1,BAC67143.1,Gram-negative bacterium TC71,tetracycline antibiotic,multidrug
