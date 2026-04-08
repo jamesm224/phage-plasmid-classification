@@ -1,8 +1,8 @@
-# Phage-Plasmid Classification
+# Phage-Plasmid-like Element (PPLE) Classification
 
-Here we classified, sorted, and analyzed phage-plasmids from around 1,100,000 genomes from 4 databases to obtain a large, comprehensive collection of 5,712 unique P-P sequences from a diverse array of environmental source locations.
+Here we classified, sorted, and analyzed phage-plasmid-like elements from around 1,100,000 genomes from 4 databases to obtain a large, comprehensive collection of 5,712 unique PPLE sequences from a diverse array of environmental source locations.
 
-Phage-Plasmid Example:
+Phage-Plasmid-like Example:
 
 ![proksee (4)](https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/ebe7a099-d634-4f36-bf60-c70e560b195d)
 Example identified above visualized with Proksee, mobileOG-db, CARD, and Prokka:
@@ -25,7 +25,7 @@ Example identified above visualized with Proksee, mobileOG-db, CARD, and Prokka:
 The files in this repository contain code and smaller data files. If you want additional information, please reach out to James Mullet for further information/questions (jmullet@mit.edu). Additionally, genomes and other metadata can be found on Figshare located here: [https://figshare.com/s/b0ffbc71c0bf43e251df](https://figshare.com/s/b0ffbc71c0bf43e251df)
 
 1. Bins Folder - Contains many scripts used in the experimental design of this project
-2. Data Folder - Includes the input testing/training data and classified phage-plasmid accessions
+2. Data Folder - Includes the input testing/training data and classified phage-plasmid-like element accessions
 3. Plots Folder - Contain a few of the plots code created in experiment (feel free to reach out if you want additional plots code)
    
 RF Classifier Input Example:
