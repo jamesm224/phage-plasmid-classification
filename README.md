@@ -19,7 +19,6 @@ Example identified above visualized with Proksee, mobileOG-db, CARD, and Prokka:
 
 <img width="4029" height="2124" alt="figure_1" src="https://github.com/user-attachments/assets/a833587a-f7e3-4513-8c81-059f4cc63e90" />
 
-
 # Source Code
 
 The files in this repository contain code and smaller data files. If you want additional information, please reach out to James Mullet for further information/questions (jmullet@umich.edu). Additionally, genomes and other metadata can be found on Figshare located here: [https://figshare.com/s/b0ffbc71c0bf43e251df](https://figshare.com/s/b0ffbc71c0bf43e251df)
