@@ -7,7 +7,8 @@ Phage-Plasmid-like Example:
 ![proksee (4)](https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/ebe7a099-d634-4f36-bf60-c70e560b195d)
 Example identified above visualized with Proksee, mobileOG-db, CARD, and Prokka:
 
- 
+ <img width="4029" height="2124" alt="figure_1" src="https://github.com/user-attachments/assets/8cce1858-615d-4832-bb36-ebd07124e7c5" />
+
 # Overall Workflow
 
 1. Isolated genomes from IMG/VR, PLSDB, GPD, and MGV
@@ -17,7 +18,8 @@ Example identified above visualized with Proksee, mobileOG-db, CARD, and Prokka:
 5. Analyzed Metadata to determine source locations of phage-plasmids
 6. Additional tools for further accessory gene analysis
 
-<img width="4029" height="2124" alt="figure_1" src="https://github.com/user-attachments/assets/a833587a-f7e3-4513-8c81-059f4cc63e90" />
+<img width="4029" height="2124" alt="figure_1" src="https://github.com/user-attachments/assets/e82ebcb0-393a-4a8d-8f3f-766bd523c23a" />
+
 
 
 # Source Code
