@@ -7,6 +7,10 @@ Phage-Plasmid-like Example:
 ![proksee (4)](https://github.com/jamesm224/phage-plasmid-classification/assets/86495895/ebe7a099-d634-4f36-bf60-c70e560b195d)
 Example identified above visualized with Proksee, mobileOG-db, CARD, and Prokka:
 
+## Publication 
+This code and the accompanying paper is described in: 
+
+         Mullet JI, Zhang L, Pruden A, and Brown CL. 2026. Phage-plasmid-like elements are found throughout diverse environments and encode niche-specific functional traits. PLoS One 21(5): e0350027. In Press.
  
 # Overall Workflow
 
