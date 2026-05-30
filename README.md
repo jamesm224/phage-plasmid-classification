@@ -10,7 +10,7 @@ Example identified above visualized with Proksee, mobileOG-db, CARD, and Prokka:
 ## Publication 
 This code and the accompanying paper is described in: 
 
-         Mullet JI, Zhang L, Pruden A, and Brown CL. 2026. Phage-plasmid-like elements are found throughout diverse environments and encode niche-specific functional traits. PLoS One 21(5): e0350027. In Press.
+         Mullet JI, Zhang L, Pruden A, Brown CL (2026) Phage-plasmid-like elements are found throughout diverse environments and encode niche-specific functional traits. PLOS ONE 21(5): e0350027. https://doi.org/10.1371/journal.pone.0350027
  
 # Overall Workflow
 
